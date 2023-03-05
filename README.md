@@ -1,8 +1,10 @@
 # Wikipedian-compounds
 Parsing Wikipedia Chembox data for fun.
 
-English Wipedia pages with the templates `['drugbox', 'chembox','Drugbox', 'Chembox']`.
+English Wipedia pages with the templates `['drugbox', 'chembox','Drugbox', 'Chembox']`,
+and separately with `['Reactionbox', 'reactionbox']`.
 
+## Parsing code
 ```python
 import mwxml, bz2
 from wiki_category_analyser import WikicatParser
@@ -93,7 +95,7 @@ elements = ['Actinium', 'Aluminum', 'Americium', 'Antimony', 'Argon', 'Arsenic',
 
 compounds['is_element'] = compounds['title'].isin(elements)
 ```
-
+## Top 50
 What are the top 50 most read-about compounds? Monthly views.
 ```python
 from rdkit import Chem
