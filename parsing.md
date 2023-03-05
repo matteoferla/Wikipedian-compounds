@@ -56,7 +56,7 @@ import json, gzip
 for date_tag in ('202208', '202209',  '202210', '202211', '202212', '202301'):
     with gzip.open(f'extracted_dumps/pageviews-{date_tag}.json.gz', 'rb') as fh:
         counts = json.load(fh)
-        compounds[f'counts_{date_tag}'] = compounds.title.apply(counts.get).fillna(0).astype(int)
+        compounds[f'counts_{date_tag}'] = compounds.title.str.replace(' ', '_').apply(counts.get).fillna(0).astype(int)
         
 # second half of 2022...
 compounds[f'counts_2022H2'] = 0

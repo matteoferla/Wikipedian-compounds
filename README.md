@@ -1,8 +1,9 @@
 # Wikipedian-compounds
-Parsing Wikipedia Chembox data for fun.
+Parsing Wikipedia Chembox and Reactionbox data for fun.
+Actually, for reactions the view count and the page length might be useful for ranking reactions.
 
 English Wipedia pages with the templates `['drugbox', 'chembox','Drugbox', 'Chembox']`,
-and separately with `['Reactionbox', 'reactionbox']`.
+and separately with `['Reactionbox', 'reactionbox']` and these are used to tell compounds and reactions from countries.
 
 ## Parsing code
 Parsing was done as previous projects: see [parsing notes](parsing.md).
@@ -29,7 +30,7 @@ elements = ['Actinium', 'Aluminum', 'Americium', 'Antimony', 'Argon', 'Arsenic',
 
 compounds['is_element'] = compounds['title'].isin(elements)
 ```
-## Top 50
+## Top 50 compounds
 What are the top 50 most read-about compounds? Monthly views.
 ```python
 from rdkit import Chem
@@ -52,3 +53,5 @@ display(HTML(svg))
 The limonene is a weird 2022 trend: [pageview analytics](https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2023-01&pages=Paracetamol%7CLimonene%7CCaffeine%7CEthanol%7CMDMA)
 
 Of the 20,638 compounds, [7,942 have had zero readers](unread.txt). Some may be parsing errors, like `Tröger's base` whose umlaut made the matching fail, but they seem mostly to obscure salts.
+
+## Reactions
