@@ -52,6 +52,8 @@ display(HTML(svg))
 
 The limonene is a weird 2022 trend: [pageview analytics](https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2023-01&pages=Paracetamol%7CLimonene%7CCaffeine%7CEthanol%7CMDMA)
 
-Of the 20,638 compounds, [7,942 have had zero readers](unread.txt). Some may be parsing errors, like `Tröger's base` whose umlaut made the matching fail, but they seem mostly to obscure salts.
+Of the [20,638 compounds](compounds.csv), [930 have had zero readers](unread.txt). Some may be parsing errors, like `Tröger's base` whose umlaut made the matching fail, but they seem mostly to obscure salts.
 
 ## Reactions
+
+[345 reactions](reactions.csv). Suzuki is most popular, while Claisen is #44 and Hantzsch is #48? Come on Wikipedia users!
