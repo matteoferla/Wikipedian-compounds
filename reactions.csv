@@ -1,17 +1,17 @@
-title,Name,Type,NamedAfter,Section3,OrganicChemistryNamed,RSC_ontology_id,Verifiedfields,Watchedfields,verifiedrevid,Section1,Reactant1,Reactant2,Reactant3,Product1,Section4,Similar,Alternative,Section2,Reaction,RSC_ontology_id_verified,Reagent1,RSS_ontology_id,Reference,MarchID,MarchEdition,MarchPage,Solvent,Sideproduct1,1,par_name,par_value,label,value,value1,value2,value3,value4,value5,value6,value7,value8,value9,Temperature,Reagent1_Equivalents,Reagent1_Reference,Reagent2,Reagent2_Reference,Sideproduct2,Sideproduct3,Sideproduct4,Sideproduct4_Note,Sideproduct4_Reference,Examples,Reverse,value_ref,value_edition,value_page,value_comment,Plus,Function,Species,Equivalents,Note,Equilibrium,Reactant4,Reactant,Reactant_Equivalents,Reactant1_Equivalents,Reactant2_Equivalents,Reagent2_Equivalents,Product1_Equivalents,Product2,Product2_Equivalents,Sideproduct1_Equivalents,Product,Catalyst,counts_202208,counts_202209,counts_202210,counts_202211,counts_202212,counts_202301,counts_2022H2
-Suzuki reaction,Suzuki reaction,Coupling reaction,[[Akira Suzuki (chemist)|Akira Suzuki]],"{{Reactionbox Identifiers
+title,Name,Type,monthly_views,NamedAfter,Section3,OrganicChemistryNamed,RSC_ontology_id,Verifiedfields,Watchedfields,verifiedrevid,Section1,Reactant1,Reactant2,Reactant3,Product1,Section4,Similar,Alternative,Section2,Reaction,RSC_ontology_id_verified,Reagent1,RSS_ontology_id,Reference,MarchID,MarchEdition,MarchPage,Solvent,Sideproduct1,1,par_name,par_value,label,value,value1,value2,value3,value4,value5,value6,value7,value8,value9,Temperature,Reagent1_Equivalents,Reagent1_Reference,Reagent2,Reagent2_Reference,Sideproduct2,Sideproduct3,Sideproduct4,Sideproduct4_Note,Sideproduct4_Reference,Examples,Reverse,value_ref,value_edition,value_page,value_comment,Plus,Function,Species,Equivalents,Note,Equilibrium,Reactant4,Reactant,Reactant_Equivalents,Reactant1_Equivalents,Reactant2_Equivalents,Reagent2_Equivalents,Product1_Equivalents,Product2,Product2_Equivalents,Sideproduct1_Equivalents,Product,Catalyst,counts_202208,counts_202209,counts_202210,counts_202211,counts_202212,counts_202301,counts_2022H2
+Suzuki reaction,Suzuki reaction,Coupling reaction,123.33333333333333,[[Akira Suzuki (chemist)|Akira Suzuki]],"{{Reactionbox Identifiers
 | OrganicChemistryNamed = suzuki-coupling
 | RSC_ontology_id = 0000140
 }}",suzuki-coupling,0000140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,157,154,78,78,231,42,740
-Aldol condensation,Aldol condensation,Coupling reaction,,"{{Reactionbox Identifiers
+Aldol condensation,Aldol condensation,Coupling reaction,117.0,,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = aldol-condensation
    | RSC_ontology_id = 0000017
  }}",aldol-condensation,0000017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92,146,94,94,204,72,702
-Mitsunobu reaction,Mitsunobu reaction,Coupling reaction,Oyo Mitsunobu,"{{Reactionbox Identifiers
+Mitsunobu reaction,Mitsunobu reaction,Coupling reaction,82.83333333333333,Oyo Mitsunobu,"{{Reactionbox Identifiers
 | OrganicChemistryNamed = mitsunobu-reaction
 | RSC_ontology_id = 0000034
 }}",mitsunobu-reaction,0000034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98,126,39,39,180,15,497
-Wittig reaction,,Coupling reaction,[[Georg Wittig]],"{{Reactionbox Identifiers
+Wittig reaction,,Coupling reaction,80.83333333333333,[[Georg Wittig]],"{{Reactionbox Identifiers
   | RSC_ontology_id_verified = rsccite
   | RSC_ontology_id = 0000015
   | OrganicChemistryNamed = wittig-reaction
@@ -26,220 +26,220 @@ Wittig reaction,,Coupling reaction,[[Georg Wittig]],"{{Reactionbox Identifiers
   | Product1 = [[alkene]]
   | Sideproduct1 = [[triphenylphosphine oxide]]
   }}",rsccite,,,,16-44,6th,,typically [[THF]] or [[diethyl ether]],[[triphenylphosphine oxide]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,99,100,60,60,131,35,485
-Aldol reaction,Aldol reaction,Coupling reaction,,"{{Reactionbox Identifiers
+Aldol reaction,Aldol reaction,Coupling reaction,72.66666666666667,,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = aldol-addition
    | RSC_ontology_id = 0000016
  }}",aldol-addition,0000016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,113,63,41,41,149,29,436
-Sonogashira coupling,Sonogashira coupling,Coupling reaction,[[Kenkichi Sonogashira]],"{{Reactionbox Identifiers
+Sonogashira coupling,Sonogashira coupling,Coupling reaction,71.16666666666667,[[Kenkichi Sonogashira]],"{{Reactionbox Identifiers
 | OrganicChemistryNamed = sonogashira-coupling
 | RSC_ontology_id = 0000137
 }}",sonogashira-coupling,0000137,,,,,,,,,"{{Reactionbox Related
 | Similar = [[Sonogashira coupling#Copper-free Sonogashira coupling|Copper-free Sonogashira coupling]]
 | Alternative = Heck-Cassarcoupling, Heck alkynylation
 }}",[[Sonogashira coupling#Copper-free Sonogashira coupling|Copper-free Sonogashira coupling]],"Heck-Cassarcoupling, Heck alkynylation",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,93,87,40,40,131,36,427
-Birch reduction,Birch reduction,Organic redox reaction,[[Arthur Birch (organic chemist)|Arthur Birch]],"{{Reactionbox Identifiers
+Birch reduction,Birch reduction,Organic redox reaction,70.5,[[Arthur Birch (organic chemist)|Arthur Birch]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = birch-reduction
    | RSC_ontology_id = 0000042
  }}",birch-reduction,0000042,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58,174,40,40,81,30,423
-Heck reaction,Heck reaction,Coupling reaction,[[Richard F. Heck]],"{{Reactionbox Identifiers
+Heck reaction,Heck reaction,Coupling reaction,69.16666666666667,[[Richard F. Heck]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = heck-reaction
    | RSC_ontology_id = 0000024
  }}",heck-reaction,0000024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67,86,48,48,143,23,415
-Knoevenagel condensation,Knoevenagel condensation,Coupling reaction,[[Emil Knoevenagel]],"{{Reactionbox Identifiers
+Knoevenagel condensation,Knoevenagel condensation,Coupling reaction,67.33333333333333,[[Emil Knoevenagel]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = knoevenagel-condensation
    | RSC_ontology_id = 0000044
  }}",knoevenagel-condensation,0000044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,78,72,61,61,106,26,404
-Sandmeyer reaction,Sandmeyer reaction,Substitution reaction,[[Traugott Sandmeyer]],"{{Reactionbox Identifiers
+Sandmeyer reaction,Sandmeyer reaction,Substitution reaction,62.0,[[Traugott Sandmeyer]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = sandmeyer-reaction
  | RSC_ontology_id = 0000021
  }}",sandmeyer-reaction,0000021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46,67,37,37,131,54,372
-Swern oxidation,Swern oxidation,Organic redox reaction,[[Daniel Swern]],"{{Reactionbox Identifiers
+Swern oxidation,Swern oxidation,Organic redox reaction,58.166666666666664,[[Daniel Swern]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = swern-oxidation
    | RSC_ontology_id = 0000154
  }}",swern-oxidation,0000154,changed,changed,298094479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55,76,38,38,102,40,349
-Mannich reaction,Mannich reaction,Coupling reaction,[[Carl Mannich]],"{{Reactionbox Identifiers
+Mannich reaction,Mannich reaction,Coupling reaction,58.0,[[Carl Mannich]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = mannich-reaction
  | RSC_ontology_id = 0000032
  }}",mannich-reaction,0000032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65,59,37,37,113,37,348
-Friedel–Crafts reaction,Friedel-Crafts acylation,Coupling reaction,[[Charles Friedel]]  [[James Crafts]],"{{Reactionbox Identifiers
+Friedel–Crafts reaction,Friedel-Crafts acylation,Coupling reaction,58.0,[[Charles Friedel]]  [[James Crafts]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = friedel-crafts-acylation
  | RSC_ontology_id = 0000045
  }}",friedel-crafts-acylation,0000045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69,41,45,45,112,36,348
-Buchwald–Hartwig amination,Buchwald-Hartwig amination,Coupling reaction,[[Stephen L. Buchwald]]  [[John F. Hartwig]],"{{Reactionbox Identifiers
+Buchwald–Hartwig amination,Buchwald-Hartwig amination,Coupling reaction,57.333333333333336,[[Stephen L. Buchwald]]  [[John F. Hartwig]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = buchwald-hartwig-reaction
  | RSC_ontology_id = 0000192
  }}",buchwald-hartwig-reaction,0000192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58,83,41,41,102,19,344
-Claisen condensation,Claisen condensation,Coupling reaction,[[Rainer Ludwig Claisen]],"{{Reactionbox Identifiers
+Claisen condensation,Claisen condensation,Coupling reaction,57.166666666666664,[[Rainer Ludwig Claisen]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = claisen-condensation
  | RSC_ontology_id = 0000043
  }}",claisen-condensation,0000043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73,63,36,36,108,27,343
-Grignard reaction,Grignard reaction,Coupling reaction,[[Victor Grignard]],"{{Reactionbox Identifiers
+Grignard reaction,Grignard reaction,Coupling reaction,56.0,[[Victor Grignard]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = grignard-reaction
    | RSC_ontology_id = 0000014
  }}",grignard-reaction,0000014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,47,56,40,40,128,25,336
-Hofmann rearrangement,Hofmann rearrangement,Rearrangement reaction,[[August Wilhelm von Hofmann]],"{{Reactionbox Identifiers
+Hofmann rearrangement,Hofmann rearrangement,Rearrangement reaction,52.833333333333336,[[August Wilhelm von Hofmann]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000410
  }}",,0000410,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,54,82,32,32,86,31,317
-Baeyer–Villiger oxidation,Baeyer-Villiger oxidation,Organic redox reaction,[[Adolf von Baeyer]]  [[Victor Villiger]],"{{Reactionbox Identifiers
+Baeyer–Villiger oxidation,Baeyer-Villiger oxidation,Organic redox reaction,51.666666666666664,[[Adolf von Baeyer]]  [[Victor Villiger]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = baeyer-villiger-oxidation
    | RSC_ontology_id = 0000031
  }}",baeyer-villiger-oxidation,0000031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,74,35,35,79,27,310
-Cannizzaro reaction,Cannizzaro reaction,Organic redox reaction,[[Stanislao Cannizzaro]],"{{Reactionbox Identifiers
+Cannizzaro reaction,Cannizzaro reaction,Organic redox reaction,51.333333333333336,[[Stanislao Cannizzaro]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = cannizzaro-reaction
    | RSC_ontology_id = 0000218
  }}",cannizzaro-reaction,0000218,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,48,57,38,38,83,44,308
-Negishi coupling,Negishi coupling,Coupling reaction,[[Ei-ichi Negishi]],"{{Reactionbox Identifiers
+Negishi coupling,Negishi coupling,Coupling reaction,50.833333333333336,[[Ei-ichi Negishi]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = negishi-coupling
 |RSC_ontology_id = 0000088
 }}",negishi-coupling,0000088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,48,67,34,34,112,10,305
-Reductive amination,Reductive amination,Coupling reaction,,"{{Reactionbox Identifiers
+Reductive amination,Reductive amination,Coupling reaction,50.5,,"{{Reactionbox Identifiers
  | RSC_ontology_id = 0000335
  }}",,0000335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81,70,23,23,84,22,303
-Olefin metathesis,Olefin metathesis,Carbon-carbon bond forming reaction,,"{{Reactionbox Identifiers
+Olefin metathesis,Olefin metathesis,Carbon-carbon bond forming reaction,50.333333333333336,,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = olefin-metathesis
    | RSC_ontology_id = 0000280
  }}",olefin-metathesis,0000280,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,48,50,38,38,102,26,302
-Williamson ether synthesis,Williamson Ether Synthesis,Coupling reaction,[[Alexander William Williamson]],"{{Reactionbox Identifiers
+Williamson ether synthesis,Williamson Ether Synthesis,Coupling reaction,46.666666666666664,[[Alexander William Williamson]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = williamson-synthesis
    | RSC_ontology_id = 0000090
  }}",williamson-synthesis,0000090,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,57,53,25,25,93,27,280
-Ozonolysis,Ozonolysis,Organic redox reaction,,"{{Reactionbox Identifiers
+Ozonolysis,Ozonolysis,Organic redox reaction,46.166666666666664,,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = ozonolysis-criegee-mechanism
  }}",ozonolysis-criegee-mechanism,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50,32,34,34,94,33,277
-Appel reaction,Appel reaction,Substitution reaction,[[Rolf Appel]],"{{Reactionbox Identifiers
+Appel reaction,Appel reaction,Substitution reaction,45.5,[[Rolf Appel]],"{{Reactionbox Identifiers
 | OrganicChemistryNamed = appel-reaction
 | RSC_ontology_id = 0000406
 }}",appel-reaction,0000406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44,60,34,34,86,15,273
-Horner–Wadsworth–Emmons reaction,Horner-Wadsworth-Emmons reaction,Coupling reaction,[[Leopold Horner]]  William S. Wadsworth  [[William D. Emmons]],"{{Reactionbox Identifiers
+Horner–Wadsworth–Emmons reaction,Horner-Wadsworth-Emmons reaction,Coupling reaction,45.166666666666664,[[Leopold Horner]]  William S. Wadsworth  [[William D. Emmons]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = wittig-horner-reaction
  | RSC_ontology_id = 0000056
 }}",wittig-horner-reaction,0000056,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55,60,27,27,83,19,271
-Jones oxidation,Jones oxidation,Organic redox reaction,[[Ewart Jones]],"{{Reactionbox Identifiers
+Jones oxidation,Jones oxidation,Organic redox reaction,43.5,[[Ewart Jones]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = jones-oxidation
 |RSC_ontology_id = 0000356
 }}",jones-oxidation,0000356,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45,47,32,32,80,25,261
-Hofmann elimination,Hofmann elimination,Elimination reaction,[[August Wilhelm von Hofmann]],,hofmann-elimination,0000166,,,,"{{Reactionbox Identifiers
+Hofmann elimination,Hofmann elimination,Elimination reaction,39.0,[[August Wilhelm von Hofmann]],,hofmann-elimination,0000166,,,,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = hofmann-elimination
    | RSC_ontology_id = 0000166
  }}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,67,24,24,51,28,234
-Fischer–Speier esterification,Esterification,Coupling reaction,[[Hermann Emil Fischer]]  [[Arthur Speier]],"{{Reactionbox Identifiers
+Fischer–Speier esterification,Esterification,Coupling reaction,38.833333333333336,[[Hermann Emil Fischer]]  [[Arthur Speier]],"{{Reactionbox Identifiers
   | OrganicChemistryNamed = fischer-esterification
   | RSC_ontology_id = 0000167
  }}",fischer-esterification,0000167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,43,27,27,92,21,233
-Beckmann rearrangement,Beckmann rearrangement,Rearrangement reaction,[[Ernst Otto Beckmann]],"{{Reactionbox Identifiers
+Beckmann rearrangement,Beckmann rearrangement,Rearrangement reaction,36.833333333333336,[[Ernst Otto Beckmann]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = beckmann-rearrangement
    | RSC_ontology_id = 0000026
  }}",beckmann-rearrangement,0000026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,39,16,16,79,22,221
-Hydroformylation,Hydroformylation,Addition reaction,,"{{Reactionbox Identifiers
+Hydroformylation,Hydroformylation,Addition reaction,36.333333333333336,,"{{Reactionbox Identifiers
  | RSC_ontology_id = 0000272
  }}",,0000272,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55,42,23,23,61,14,218
-Vilsmeier–Haack reaction,Vilsmeier-Haack reaction,Substitution reaction,[[Anton Vilsmeier]]  Albrecht Haack,"{{Reactionbox Identifiers
+Vilsmeier–Haack reaction,Vilsmeier-Haack reaction,Substitution reaction,36.166666666666664,[[Anton Vilsmeier]]  Albrecht Haack,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = vilsmeier-reaction
    | RSC_ontology_id = 0000055
  }}",vilsmeier-reaction,0000055,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,43,54,19,19,72,10,217
-Curtius rearrangement,Curtius rearrangement,Rearrangement reaction,[[Theodor Curtius]],"{{Reactionbox Identifiers
+Curtius rearrangement,Curtius rearrangement,Rearrangement reaction,35.833333333333336,[[Theodor Curtius]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = curtius-rearrangement
  | RSC_ontology_id = 0000054
  }}",curtius-rearrangement,0000054,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41,37,14,14,78,31,215
-Fischer indole synthesis,Fischer indole synthesis,Ring forming reaction,[[Hermann Emil Fischer]],"{{Reactionbox Identifiers
+Fischer indole synthesis,Fischer indole synthesis,Ring forming reaction,34.833333333333336,[[Hermann Emil Fischer]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = fischer-indole-synthesis
  | RSC_ontology_id = 0000064
 }}",fischer-indole-synthesis,0000064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41,34,25,25,72,12,209
-Ullmann reaction,Ullmann reaction,Coupling reaction,[[Fritz Ullmann]],"{{Reactionbox Identifiers
+Ullmann reaction,Ullmann reaction,Coupling reaction,34.166666666666664,[[Fritz Ullmann]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = ullmann-reaction
 |RSC_ontology_id = 0000040
 }}",ullmann-reaction,0000040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44,66,11,11,56,17,205
-Wurtz reaction,Wurtz reaction,Coupling reaction,[[Charles Adolphe Wurtz]],"{{Reactionbox Identifiers
+Wurtz reaction,Wurtz reaction,Coupling reaction,33.333333333333336,[[Charles Adolphe Wurtz]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = wurtz-reaction
 |RSS_ontology_id = 0000074
 }}",wurtz-reaction,,,,,,,,,,,,,,,,,0000074,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,38,29,29,39,39,200
-Stille reaction,Stille reaction,Coupling reaction,[[John Kenneth Stille]],"{{Reactionbox Identifiers
+Stille reaction,Stille reaction,Coupling reaction,32.5,[[John Kenneth Stille]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = stille-coupling
 |RSC_ontology_id = 0000035
 }}",stille-coupling,0000035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50,38,22,22,51,12,195
-Azide-alkyne Huisgen cycloaddition,Azide-alkyne Huisgen cycloaddition,Ring forming reaction,[[Rolf Huisgen]],"{{Reactionbox Identifiers
+Azide-alkyne Huisgen cycloaddition,Azide-alkyne Huisgen cycloaddition,Ring forming reaction,30.0,[[Rolf Huisgen]],"{{Reactionbox Identifiers
 | OrganicChemistryNamed = huisgen-1,3-dipolar-cycloaddition
 | RSC_ontology_id = 0000269
 }}","huisgen-1,3-dipolar-cycloaddition",0000269,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27,29,19,19,71,15,180
-Staudinger reaction,Staudinger reaction,Organic redox reaction,[[Hermann Staudinger]],"{{Reactionbox Identifiers
+Staudinger reaction,Staudinger reaction,Organic redox reaction,29.166666666666668,[[Hermann Staudinger]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = staudinger-reaction
  | RSC_ontology_id = 0000066
  }}",staudinger-reaction,0000066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44,35,15,15,56,10,175
-Reimer–Tiemann reaction,Reimer-Tiemann reaction also known as RT reaction,Substitution reaction,Karl Reimer  [[Ferdinand Tiemann]],"{{Reactionbox Identifiers
+Reimer–Tiemann reaction,Reimer-Tiemann reaction also known as RT reaction,Substitution reaction,29.0,Karl Reimer  [[Ferdinand Tiemann]],"{{Reactionbox Identifiers
  | RSC_ontology_id = 0000072
  }}",,0000072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37,33,21,21,36,26,174
-Robinson annulation,Robinson annulation,Ring forming reaction,[[Robert Robinson (organic chemist)|Robert Robinson]],"{{Reactionbox Identifiers
+Robinson annulation,Robinson annulation,Ring forming reaction,29.0,[[Robert Robinson (organic chemist)|Robert Robinson]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = robinson-annulation
    | RSC_ontology_id = 0000380
  }}",robinson-annulation,0000380,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33,22,17,17,63,22,174
-Weinreb ketone synthesis,Weinreb ketone synthesis,Coupling reaction,[[Steven M. Weinreb]],"{{Reactionbox Identifiers
+Weinreb ketone synthesis,Weinreb ketone synthesis,Coupling reaction,28.833333333333332,[[Steven M. Weinreb]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = weinreb-ketone-synthesis
  }}",weinreb-ketone-synthesis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37,31,20,20,51,14,173
-Steglich esterification,Steglich esterification,Coupling reaction,[[Wolfgang Steglich]],"{{Reactionbox Identifiers
+Steglich esterification,Steglich esterification,Coupling reaction,28.666666666666668,[[Wolfgang Steglich]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = steglich-esterification
  }}",steglich-esterification,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,53,37,8,8,56,10,172
-Claisen rearrangement,Claisen rearrangement,Rearrangement reaction,[[Rainer Ludwig Claisen]],"{{Reactionbox Identifiers
+Claisen rearrangement,Claisen rearrangement,Rearrangement reaction,28.333333333333332,[[Rainer Ludwig Claisen]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = claisen-rearrangement
  | RSC_ontology_id = 0000148
  }}",claisen-rearrangement,0000148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42,33,14,14,43,24,170
-Wolff–Kishner reduction,Wolff-Kishner reduction,Organic redox reaction,[[Ludwig Wolff]]  [[Nikolai Kischner]],"{{Reactionbox Identifiers
+Wolff–Kishner reduction,Wolff-Kishner reduction,Organic redox reaction,28.166666666666668,[[Ludwig Wolff]]  [[Nikolai Kischner]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = wolff-kishner-reduction
 |RSC_ontology_id = 0000226
 }}",wolff-kishner-reduction,0000226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,48,24,17,17,49,14,169
-Schmidt reaction,Schmidt reaction,Rearrangement reaction,Karl Friedrich Schmidt,"{{Reactionbox Identifiers
+Schmidt reaction,Schmidt reaction,Rearrangement reaction,28.0,Karl Friedrich Schmidt,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = schmidt-reaction
    | RSC_ontology_id = 0000170
  }}",schmidt-reaction,0000170,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32,33,12,12,57,22,168
-Finkelstein reaction,Finkelstein reaction,Substitution reaction,[[Hans Finkelstein]],"{{Reactionbox Identifiers
+Finkelstein reaction,Finkelstein reaction,Substitution reaction,27.833333333333332,[[Hans Finkelstein]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = finkelstein-reaction
    | RSC_ontology_id = 0000155
  }}",finkelstein-reaction,0000155,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,33,15,15,54,20,167
-Hantzsch pyridine synthesis,Hantzsch pyridine synthesis,Ring forming reaction,[[Arthur Rudolf Hantzsch]],"{{Reactionbox Identifiers
+Hantzsch pyridine synthesis,Hantzsch pyridine synthesis,Ring forming reaction,27.833333333333332,[[Arthur Rudolf Hantzsch]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = hantzsch-dihydropyridine-synthesis
    | RSC_ontology_id = 0000268
  }}",hantzsch-dihydropyridine-synthesis,0000268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24,28,22,22,47,24,167
-Strecker amino acid synthesis,Strecker synthesis,Substitution reaction,[[Adolph Strecker]],"{{Reactionbox Identifiers
+Strecker amino acid synthesis,Strecker synthesis,Substitution reaction,27.0,[[Adolph Strecker]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = strecker-synthesis
    | RSC_ontology_id = 0000207
  }}",strecker-synthesis,0000207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,25,21,21,49,17,162
-Reformatsky reaction,Reformatsky reaction,Coupling reaction,[[Sergey Reformatsky]],"{{Reactionbox Identifiers
+Reformatsky reaction,Reformatsky reaction,Coupling reaction,26.333333333333332,[[Sergey Reformatsky]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = reformatsky-reaction
 |RSC_ontology_id = 0000036
 }}",reformatsky-reaction,0000036,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,42,19,19,34,8,158
-"1,3-Dipolar cycloaddition","Huisgen 1,3-dipolar cycloaddition",Ring forming reaction,[[Rolf Huisgen]],"{{Reactionbox Identifiers
+"1,3-Dipolar cycloaddition","Huisgen 1,3-dipolar cycloaddition",Ring forming reaction,25.833333333333332,[[Rolf Huisgen]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = huisgen-1,3-dipolar-cycloaddition
    | RSC_ontology_id = 0000018
  }}","huisgen-1,3-dipolar-cycloaddition",0000018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24,15,22,22,63,9,155
-Leuckart reaction,Leuckart reaction,Substitution reaction,[[Rudolf Leuckart (chemist)|Rudolf Leuckart]],"{{Reactionbox Identifiers
+Leuckart reaction,Leuckart reaction,Substitution reaction,25.666666666666668,[[Rudolf Leuckart (chemist)|Rudolf Leuckart]],"{{Reactionbox Identifiers
 |RSC_ontology_id = 0000101
 }}",,0000101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,34,28,17,17,45,13,154
-Dieckmann condensation,Dieckmann condensation,Ring forming reaction,[[Walter Dieckmann]],"{{Reactionbox Identifiers
+Dieckmann condensation,Dieckmann condensation,Ring forming reaction,25.666666666666668,[[Walter Dieckmann]],"{{Reactionbox Identifiers
 | OrganicChemistryNamed = dieckmann-condensation 
 | RSC_ontology_id = 0000065
  }}",dieckmann-condensation,0000065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25,28,22,22,40,17,154
-Pictet–Spengler reaction,Pictet-Spengler reaction,Ring forming reaction,[[Amé Pictet]]  Theodor Spengler,"{{Reactionbox Identifiers
+Pictet–Spengler reaction,Pictet-Spengler reaction,Ring forming reaction,25.333333333333332,[[Amé Pictet]]  Theodor Spengler,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000059
  }}",,0000059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35,34,12,12,48,11,152
-Haloform reaction,Haloform reaction,Substitution reaction,[[Adolf Lieben]],"{{Reactionbox Identifiers
+Haloform reaction,Haloform reaction,Substitution reaction,25.333333333333332,[[Adolf Lieben]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = haloform-reaction
 }}",haloform-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,34,16,16,48,18,152
-Sharpless epoxidation,Sharpless epoxidation,Ring forming reaction,[[Karl Barry Sharpless]],"{{Reactionbox Identifiers
+Sharpless epoxidation,Sharpless epoxidation,Ring forming reaction,25.166666666666668,[[Karl Barry Sharpless]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = sharpless-epoxidation
  | RSC_ontology_id = 0000141
 }}",sharpless-epoxidation,0000141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31,38,13,13,45,11,151
-Baylis–Hillman reaction,(Morita-)Baylis-Hillman reaction,Coupling reaction,Ken-ichi Morita  Anthony B. Baylis  Melville E. D. Hillman,"{{Reactionbox Identifiers
+Baylis–Hillman reaction,(Morita-)Baylis-Hillman reaction,Coupling reaction,24.333333333333332,Ken-ichi Morita  Anthony B. Baylis  Melville E. D. Hillman,"{{Reactionbox Identifiers
 | OrganicChemistryNamed = baylis-hillman-reaction
 | RSC_ontology_id = 0000076
 }}",baylis-hillman-reaction,0000076,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,39,14,14,42,7,146
-Simmons–Smith reaction,Simmons-Smith reaction,Ring forming reaction,"[[Howard Ensign Simmons, Jr.]]  [[Ronald D. Smith]]","{{Reactionbox Identifiers
+Simmons–Smith reaction,Simmons-Smith reaction,Ring forming reaction,24.0,"[[Howard Ensign Simmons, Jr.]]  [[Ronald D. Smith]]","{{Reactionbox Identifiers
 |OrganicChemistryNamed = simmons-smith-reaction
 |RSC_ontology_id = 0000258
 }}",simmons-smith-reaction,0000258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,30,14,14,55,9,144
-Ugi reaction,Ugi reaction,Coupling reaction,[[Ivar Karl Ugi]],"{{Reactionbox Identifiers
+Ugi reaction,Ugi reaction,Coupling reaction,23.833333333333332,[[Ivar Karl Ugi]],"{{Reactionbox Identifiers
   | OrganicChemistryNamed = ugi-reaction
   | RSC_ontology_id = 0000129
  }}",ugi-reaction,0000129,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,31,16,16,49,11,143
-Perkin reaction,,Condensation reaction,[[William Henry Perkin]],,,0000003,,,342064841,,[[Aromatic]] [[aldehyde]],[[Aliphatic acid anhydride]],,[[Cinnamic acid]] derivatives,,,,"{{Reactionbox Identifiers
+Perkin reaction,,Condensation reaction,23.166666666666668,[[William Henry Perkin]],,,0000003,,,342064841,,[[Aromatic]] [[aldehyde]],[[Aliphatic acid anhydride]],,[[Cinnamic acid]] derivatives,,,,"{{Reactionbox Identifiers
 |RSC_ontology_id_verified = rsccite
 |RSC_ontology_id = 0000003
 }}","{{Reactionbox Reaction
@@ -248,162 +248,162 @@ Perkin reaction,,Condensation reaction,[[William Henry Perkin]],,,0000003,,,3420
 |Reagent1 = [[Alkali]] salt of the [[acid]]
 |Product1 = [[Cinnamic acid]] derivatives
 }}",rsccite,[[Alkali]] salt of the [[acid]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44,26,12,12,29,16,139
-Henry reaction,Henry reaction,Coupling reaction,Louis Henry,"{{Reactionbox Identifiers
+Henry reaction,Henry reaction,Coupling reaction,22.833333333333332,Louis Henry,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = henry-reaction
    | RSC_ontology_id = 0000086
  }}",henry-reaction,0000086,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,21,15,15,41,17,137
-Pinnick oxidation,Pinnick oxidation,Organic redox reaction,Harold W. Pinnick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,25,9,9,48,6,137
-Dakin oxidation,Dakin reaction,Organic redox reaction,[[Henry Drysdale Dakin]],"{{Reactionbox Identifiers
+Pinnick oxidation,Pinnick oxidation,Organic redox reaction,22.833333333333332,Harold W. Pinnick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,25,9,9,48,6,137
+Dakin oxidation,Dakin reaction,Organic redox reaction,22.833333333333332,[[Henry Drysdale Dakin]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = dakin-reaction
    | RSC_ontology_id = 0000169
  }}",dakin-reaction,0000169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,17,22,22,29,21,137
-Fries rearrangement,Fries rearrangement,Rearrangement reaction,[[Karl Theophil Fries]],"{{Reactionbox Identifiers
+Fries rearrangement,Fries rearrangement,Rearrangement reaction,22.5,[[Karl Theophil Fries]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = fries-rearrangement
  | RSC_ontology_id = 0000444
  }}",fries-rearrangement,0000444,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,23,18,18,46,10,135
-Clemmensen reduction,Clemmensen reduction,Organic redox reaction,[[Erik Christian Clemmensen]],"{{Reactionbox Identifiers
+Clemmensen reduction,Clemmensen reduction,Organic redox reaction,22.0,[[Erik Christian Clemmensen]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = clemmensen-reduction
    | RSC_ontology_id = 0000038
  }}",clemmensen-reduction,0000038,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,24,13,13,51,11,132
-Paal–Knorr synthesis,Knorr pyrazole synthesis,Ring forming reaction,[[Ludwig Knorr]],"{{Reactionbox Identifiers
+Paal–Knorr synthesis,Knorr pyrazole synthesis,Ring forming reaction,21.833333333333332,[[Ludwig Knorr]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000391
  }}",paal-knorr-thiophene-synthesis,0000391,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,47,22,9,9,35,9,131
-Meerwein–Ponndorf–Verley reduction,Meerwein-Ponndorf-Verley reduction,Organic redox reaction,[[Hans Meerwein]]  Wolfgang Ponndorf  Albert Verley,"{{Reactionbox Identifiers
+Meerwein–Ponndorf–Verley reduction,Meerwein-Ponndorf-Verley reduction,Organic redox reaction,21.833333333333332,[[Hans Meerwein]]  Wolfgang Ponndorf  Albert Verley,"{{Reactionbox Identifiers
 |OrganicChemistryNamed = meerwein-ponndorf-verley-reduction
 |RSC_ontology_id = 0000089
 }}",meerwein-ponndorf-verley-reduction,0000089,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,33,15,15,35,15,131
-Favorskii rearrangement,Favorskii rearrangement,Rearrangement reaction,[[Alexei Yevgrafovich Favorskii]],"{{Reactionbox Identifiers
+Favorskii rearrangement,Favorskii rearrangement,Rearrangement reaction,21.333333333333332,[[Alexei Yevgrafovich Favorskii]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = favorsky-reaction
    | RSC_ontology_id = 0000385
  }}",favorsky-reaction,0000385,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,16,16,16,44,13,128
-Gattermann reaction,Gattermann-Koch formylation,Substitution reaction,[[Ludwig Gattermann]]  [[Julius Arnold Koch]],"{{Reactionbox Identifiers
+Gattermann reaction,Gattermann-Koch formylation,Substitution reaction,21.166666666666668,[[Ludwig Gattermann]]  [[Julius Arnold Koch]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000139
  }}",,0000139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,24,20,20,26,8,127
-Barton–McCombie deoxygenation,Barton-McCombie deoxygenation,Organic redox reaction,[[Derek Harold Richard Barton]]  Stuart W. McCombie,"{{Reactionbox Identifiers
+Barton–McCombie deoxygenation,Barton-McCombie deoxygenation,Organic redox reaction,21.166666666666668,[[Derek Harold Richard Barton]]  Stuart W. McCombie,"{{Reactionbox Identifiers
 |OrganicChemistryNamed = barton-mccombie-reaction
 |RSC_ontology_id = 0000134
 }}",barton-mccombie-reaction,0000134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38,19,21,21,24,4,127
-Gabriel synthesis,Gabriel synthesis,Substitution reaction,[[Siegmund Gabriel]],"{{Reactionbox Identifiers
+Gabriel synthesis,Gabriel synthesis,Substitution reaction,20.833333333333332,[[Siegmund Gabriel]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = gabriel-synthesis
  | RSC_ontology_id = 0000103
  }}",gabriel-synthesis,0000103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32,16,9,9,43,16,125
-Hunsdiecker reaction,Hunsdiecker reaction,Substitution reaction,[[Heinz Hunsdiecker]]  [[Cläre Hunsdiecker]]  [[Alexander Borodin]],"{{Reactionbox Identifiers
+Hunsdiecker reaction,Hunsdiecker reaction,Substitution reaction,20.833333333333332,[[Heinz Hunsdiecker]]  [[Cläre Hunsdiecker]]  [[Alexander Borodin]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = hunsdiecker-reaction
    | RSC_ontology_id = 0000106
  }}",hunsdiecker-reaction,0000106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,28,8,8,37,16,125
-Darzens reaction,Darzens reaction,Ring forming reaction,[[Auguste Georges Darzens]],"{{Reactionbox Identifiers
+Darzens reaction,Darzens reaction,Ring forming reaction,20.166666666666668,[[Auguste Georges Darzens]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = darzens-reaction
    | RSC_ontology_id = 0000077
  }}",darzens-reaction,0000077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,18,13,13,47,11,121
-Biginelli reaction,Biginelli reaction,Ring forming reaction,[[Pietro Biginelli]],"{{Reactionbox Identifiers
+Biginelli reaction,Biginelli reaction,Ring forming reaction,19.833333333333332,[[Pietro Biginelli]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = biginelli-reaction
    | RSC_ontology_id = 0000236
  }}",biginelli-reaction,0000236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27,27,12,12,35,6,119
-Minisci reaction,Minisci reaction,Coupling reaction,Francesco Minisci,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31,29,10,10,29,8,117
-Julia olefination,Julia-Kocienski olefination,Coupling reaction,[[Marc Julia]]  [[Philip Joseph Kocienski]],"{{Reactionbox Identifiers
+Minisci reaction,Minisci reaction,Coupling reaction,19.5,Francesco Minisci,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31,29,10,10,29,8,117
+Julia olefination,Julia-Kocienski olefination,Coupling reaction,19.5,[[Marc Julia]]  [[Philip Joseph Kocienski]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = modified-julia-kocienski-olefination
    | RSC_ontology_id = 0000304
  }}",modified-julia-kocienski-olefination,0000304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24,20,14,14,36,9,117
-McMurry reaction,McMurry reaction,Coupling reaction,[[John E. McMurry]],"{{Reactionbox Identifiers
+McMurry reaction,McMurry reaction,Coupling reaction,19.0,[[John E. McMurry]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = mcmurry-reaction
  }}",mcmurry-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,15,17,17,39,9,114
-Kumada coupling,Kumada coupling,Coupling reaction,[[Makoto Kumada]],"{{Reactionbox Identifiers
+Kumada coupling,Kumada coupling,Coupling reaction,19.0,[[Makoto Kumada]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = kumada-coupling
 |RSC_ontology_id = 0000144
 }}",kumada-coupling,0000144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,15,12,12,44,9,114
-Wolff rearrangement,Wolff rearrangement,Rearrangement reaction,[[Ludwig Wolff]],"{{Reactionbox Identifiers
+Wolff rearrangement,Wolff rearrangement,Rearrangement reaction,18.833333333333332,[[Ludwig Wolff]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = wolff-rearrangement
    | RSC_ontology_id = 0000051
  }}",wolff-rearrangement,0000051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25,19,12,12,34,11,113
-Eschweiler–Clarke reaction,Eschweiler-Clarke reaction,Substitution reaction,Wilhelm Eschweiler  [[Hans Thacher Clarke]],"{{Reactionbox Identifiers
+Eschweiler–Clarke reaction,Eschweiler-Clarke reaction,Substitution reaction,18.666666666666668,Wilhelm Eschweiler  [[Hans Thacher Clarke]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = eschweiler-clarke-reaction
    | RSC_ontology_id = 0000376
  }}",eschweiler-clarke-reaction,0000376,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33,26,7,7,27,12,112
-Ullmann condensation,Ullmann condensation,Coupling reaction,[[Fritz Ullmann]],"{{Reactionbox Identifiers
+Ullmann condensation,Ullmann condensation,Coupling reaction,18.5,[[Fritz Ullmann]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = ullmann-reaction
  | RSC_ontology_id = 0000081
  }}",ullmann-reaction,0000081,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,31,10,10,20,24,111
-Barbier reaction,Barbier reaction,Coupling reaction,[[Philippe Barbier]],"{{Reactionbox Identifiers
+Barbier reaction,Barbier reaction,Coupling reaction,18.0,[[Philippe Barbier]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000084
  }}",,0000084,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,30,9,9,29,10,108
-Johnson–Corey–Chaykovsky reaction,Johnson-Corey-Chaykovsky reaction,Ring forming reaction,A. William Johnson  [[Elias James Corey]]  Michael Chaykovsky,"{{Reactionbox Identifiers
+Johnson–Corey–Chaykovsky reaction,Johnson-Corey-Chaykovsky reaction,Ring forming reaction,17.666666666666668,A. William Johnson  [[Elias James Corey]]  Michael Chaykovsky,"{{Reactionbox Identifiers
 |OrganicChemistryNamed = corey-chaykovsky-reaction
 }}",corey-chaykovsky-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24,27,9,9,25,12,106
-Nef reaction,Nef reaction,Substitution reaction,[[John Ulric Nef (chemist)|John Ulric Nef]],"{{Reactionbox Identifiers
+Nef reaction,Nef reaction,Substitution reaction,17.666666666666668,[[John Ulric Nef (chemist)|John Ulric Nef]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = nef-reaction
    | RSC_ontology_id = 0000157
  }}",nef-reaction,0000157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,10,17,17,31,13,106
-Lossen rearrangement,Lossen rearrangement,Rearrangement reaction,[[Wilhelm Lossen]],"{{Reactionbox Identifiers
+Lossen rearrangement,Lossen rearrangement,Rearrangement reaction,17.166666666666668,[[Wilhelm Lossen]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000156
  }}",,0000156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32,26,8,8,24,5,103
-Stetter reaction,Stetter reaction,Coupling reaction,Hermann Stetter,"{{Reactionbox Identifiers
+Stetter reaction,Stetter reaction,Coupling reaction,17.166666666666668,Hermann Stetter,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = stetter-reaction
  }}",stetter-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31,20,9,9,32,2,103
-Krapcho decarboxylation,Krapcho decarboxylation,Substitution reaction,A. Paul Krapcho,"{{Reactionbox Identifiers
+Krapcho decarboxylation,Krapcho decarboxylation,Substitution reaction,17.0,A. Paul Krapcho,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000507
  }}",,0000507,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,16,10,10,35,5,102
-Chan–Lam coupling,Chan-Lam coupling,Coupling reaction,Dominic Chan  Patrick Lam,"{{Reactionbox Identifiers
+Chan–Lam coupling,Chan-Lam coupling,Coupling reaction,16.833333333333332,Dominic Chan  Patrick Lam,"{{Reactionbox Identifiers
 |OrganicChemistryNamed = chan-lam-coupling
 |RSC_ontology_id = 0000374
 }}",chan-lam-coupling,0000374,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,29,9,9,33,1,101
-Schotten–Baumann reaction,Schotten-Baumann reaction,Condensation reaction,[[Carl Schotten]][[Eugen Baumann]],"{{Reactionbox Identifiers
+Schotten–Baumann reaction,Schotten-Baumann reaction,Condensation reaction,16.833333333333332,[[Carl Schotten]][[Eugen Baumann]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = schotten-baumann-reaction
    | RSC_ontology_id = 0000165
  }}",schotten-baumann-reaction,0000165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24,29,6,6,31,5,101
-Bischler–Napieralski reaction,Bischler-Napieralski reaction,Ring forming reaction,[[August Bischler]]  [[Bernard Napieralski]],"{{Reactionbox Identifiers
+Bischler–Napieralski reaction,Bischler-Napieralski reaction,Ring forming reaction,16.666666666666668,[[August Bischler]]  [[Bernard Napieralski]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = bischler-napieralski-reaction
    | RSC_ontology_id = 0000053
  }}",bischler-napieralski-reaction,0000053,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,28,7,7,35,10,100
-Ritter reaction,Ritter reaction,Addition reaction,John J. Ritter,"{{Reactionbox Identifiers
+Ritter reaction,Ritter reaction,Addition reaction,16.5,John J. Ritter,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = ritter-reaction
    | RSC_ontology_id = 0000058
  }}",ritter-reaction,0000058,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,19,14,14,32,2,99
-Parikh–Doering oxidation,Parikh-Doering oxidation,Organic redox reaction,Jekishan R. Parikh  [[William von Eggers Doering]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,35,10,10,19,3,99
-Ring-closing metathesis,Ring-closing metathesis,Ring forming reaction,,"{{Reactionbox Identifiers
+Parikh–Doering oxidation,Parikh-Doering oxidation,Organic redox reaction,16.5,Jekishan R. Parikh  [[William von Eggers Doering]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,35,10,10,19,3,99
+Ring-closing metathesis,Ring-closing metathesis,Ring forming reaction,16.333333333333332,,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = ring-closing-metathesis
    | RSC_ontology_id = 0000245
  }}",ring-closing-metathesis,0000245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,13,13,13,39,9,98
-Hell–Volhard–Zelinsky halogenation,Hell-Volhard-Zelinsky halogenation,Substitution reaction,[[Carl Magnus von Hell]]  [[Jacob Volhard]]  [[Nikolay Zelinsky]],"{{Reactionbox Identifiers
+Hell–Volhard–Zelinsky halogenation,Hell-Volhard-Zelinsky halogenation,Substitution reaction,16.333333333333332,[[Carl Magnus von Hell]]  [[Jacob Volhard]]  [[Nikolay Zelinsky]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = hell-volhard-zelinsky-reaction
  }}",hell-volhard-zelinsky-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,16,13,13,22,18,98
-Peterson olefination,Peterson olefination,Coupling reaction,Donald John Peterson,"{{Reactionbox Identifiers
+Peterson olefination,Peterson olefination,Coupling reaction,16.166666666666668,Donald John Peterson,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = peterson-olefination
  | RSC_ontology_id = 0000080
  }}",peterson-olefination,0000080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,22,7,7,41,9,97
-Noyori asymmetric hydrogenation,Noyori asymmetric hydrogenation,Organic redox reaction,[[Ryoji Noyori]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,26,3,3,31,6,97
-Glaser coupling,Eglinton reaction,Coupling reaction,[[Geoffrey Eglinton]],"{{Reactionbox Identifiers
+Noyori asymmetric hydrogenation,Noyori asymmetric hydrogenation,Organic redox reaction,16.166666666666668,[[Ryoji Noyori]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,26,3,3,31,6,97
+Glaser coupling,Eglinton reaction,Coupling reaction,16.0,[[Geoffrey Eglinton]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = eglinton-reaction
 |RSC_ontology_id = 0000099
 }}",eglinton-reaction,0000099,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,15,9,9,30,12,96
-Pinner reaction,Pinner reaction,Coupling reaction,[[Adolf Pinner]],"{{Reactionbox Identifiers
+Pinner reaction,Pinner reaction,Coupling reaction,15.833333333333334,[[Adolf Pinner]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = pinner-reaction
    | RSC_ontology_id = 0000361
  }}",pinner-reaction,0000361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,28,8,8,18,13,95
-Malonic ester synthesis,Malonic ester synthesis,Coupling reaction,,"{{Reactionbox Identifiers
+Malonic ester synthesis,Malonic ester synthesis,Coupling reaction,15.833333333333334,,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = Malonic-ester-synthesis
    | RSC_ontology_id = 0000107
  }}",Malonic-ester-synthesis,0000107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,10,8,8,34,9,95
-Michaelis–Arbuzov reaction,Michaelis-Arbuzov reaction,Coupling reaction,[[August Michaelis]]  [[Aleksandr Arbuzov]],"{{Reactionbox Identifiers
+Michaelis–Arbuzov reaction,Michaelis-Arbuzov reaction,Coupling reaction,15.833333333333334,[[August Michaelis]]  [[Aleksandr Arbuzov]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = arbuzov-reaction
  | RSC_ontology_id = 0000060
  }}",arbuzov-reaction,0000060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,19,11,11,25,3,95
-Riley oxidation,Riley oxidation,Organic redox reaction,Harry Lister Riley,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,30,10,10,28,2,94
-Oppenauer oxidation,Oppenauer oxidation,Organic redox reaction,Rupert Viktor Oppenauer,"{{Reactionbox Identifiers
+Riley oxidation,Riley oxidation,Organic redox reaction,15.666666666666666,Harry Lister Riley,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,30,10,10,28,2,94
+Oppenauer oxidation,Oppenauer oxidation,Organic redox reaction,15.666666666666666,Rupert Viktor Oppenauer,"{{Reactionbox Identifiers
 |OrganicChemistryNamed = oppenauer-oxidation
 |RSC_ontology_id = 0000047
 }}",oppenauer-oxidation,0000047,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,17,11,11,24,10,94
-Corey–Fuchs reaction,Corey-Fuchs reaction,Substitution reaction,[[Elias James Corey]]  Philip L. Fuchs,"{{Reactionbox Identifiers
+Corey–Fuchs reaction,Corey-Fuchs reaction,Substitution reaction,15.5,[[Elias James Corey]]  Philip L. Fuchs,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = corey-fuchs-reaction
    | RSC_ontology_id = 0000146
  }}",corey-fuchs-reaction,0000146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,20,10,10,24,8,93
-Nazarov cyclization reaction,Nazarov cyclization,Ring forming reaction,[[Ivan Nikolaevich Nazarov]],"{{Reactionbox Identifiers
+Nazarov cyclization reaction,Nazarov cyclization,Ring forming reaction,15.166666666666666,[[Ivan Nikolaevich Nazarov]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = nazarov-cyclization
    | RSC_ontology_id = 0000209
  }}",nazarov-cyclization,0000209,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,16,11,11,30,15,91
-Corey–Kim oxidation,Corey-Kim oxidation,Organic redox reaction,[[Elias James Corey]]  Choung Un Kim,"{{Reactionbox Identifiers
+Corey–Kim oxidation,Corey-Kim oxidation,Organic redox reaction,15.0,[[Elias James Corey]]  Choung Un Kim,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = corey-kim-oxidation
  }}",corey-kim-oxidation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,19,12,12,22,10,90
-Sharpless asymmetric dihydroxylation,Sharpless asymmetric dihydroxylation,Addition reaction,[[Karl Barry Sharpless]],"{{Reactionbox Identifiers
+Sharpless asymmetric dihydroxylation,Sharpless asymmetric dihydroxylation,Addition reaction,15.0,[[Karl Barry Sharpless]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = sharpless-dihydroxylation
 |RSC_ontology_id = 0000142}}",sharpless-dihydroxylation,0000142,,,,"{{Reactionbox Reaction
 |Reactant1=Alkene
@@ -411,61 +411,61 @@ Sharpless asymmetric dihydroxylation,Sharpless asymmetric dihydroxylation,Additi
 |Reactant3=Chiral quinine ligand
 |Product1= 1,2-[[diol]] (main product)
 }}",Alkene,OsO,Chiral quinine ligand,"1,2-[[diol]] (main product)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,21,3,3,43,5,90
-Prins reaction,Prins reaction,Coupling reaction,Hendrik Jacobus Prins,"{{Reactionbox Identifiers
+Prins reaction,Prins reaction,Coupling reaction,14.833333333333334,Hendrik Jacobus Prins,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = prins-reaction
    | RSC_ontology_id = 0000048
  }}",prins-reaction,0000048,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,16,5,5,34,11,89
-Chichibabin reaction,Chichibabin reaction,Substitution reaction,[[Aleksei Chichibabin]],"{{Reactionbox Identifiers
+Chichibabin reaction,Chichibabin reaction,Substitution reaction,14.666666666666666,[[Aleksei Chichibabin]],"{{Reactionbox Identifiers
  | RSC_ontology_id = 0000527
  }}",,0000527,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,18,8,8,28,8,88
-Kolbe–Schmitt reaction,Kolbe-Schmitt reaction,Addition reaction,[[Hermann Kolbe]]  [[Rudolf Schmitt]],"{{Reactionbox Identifiers
+Kolbe–Schmitt reaction,Kolbe-Schmitt reaction,Addition reaction,14.5,[[Hermann Kolbe]]  [[Rudolf Schmitt]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = kolbe-schmitt-reaction
    | RSC_ontology_id = 0000182
  }}",kolbe-schmitt-reaction,0000182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,18,8,8,16,11,87
-Zincke reaction,Zincke reaction,Coupling reaction,[[Theodor Zincke]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,13,12,12,31,5,86
-Pauson–Khand reaction,Pauson-Khand reaction,Ring forming reaction,Peter Ludwig Pauson  Ihsan Ullah Khand,"{{Reactionbox Identifiers
+Zincke reaction,Zincke reaction,Coupling reaction,14.333333333333334,[[Theodor Zincke]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,13,12,12,31,5,86
+Pauson–Khand reaction,Pauson-Khand reaction,Ring forming reaction,14.333333333333334,Peter Ludwig Pauson  Ihsan Ullah Khand,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = pauson-khand-reaction
    | RSC_ontology_id = 0000464
  }}",pauson-khand-reaction,0000464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,17,7,7,29,6,86
-Luche reduction,Luche reduction,Organic redox reaction,Jean-Louis Luche,"{{Reactionbox Identifiers
+Luche reduction,Luche reduction,Organic redox reaction,14.0,Jean-Louis Luche,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = luche-reduction
    | RSC_ontology_id = 0000286
  }}",luche-reduction,0000286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,19,9,9,29,4,84
-Seyferth–Gilbert homologation,Seyferth-Gilbert homologation,Homologation reaction,[[Dietmar Seyferth]]  John C. Gilbert,"{{Reactionbox Identifiers
+Seyferth–Gilbert homologation,Seyferth-Gilbert homologation,Homologation reaction,13.833333333333334,[[Dietmar Seyferth]]  John C. Gilbert,"{{Reactionbox Identifiers
 | OrganicChemistryNamed = seyferth-gilbert-homologation
 | RSC_ontology_id = 0000387
 }}",seyferth-gilbert-homologation,0000387,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,23,4,4,28,6,83
-Stephen aldehyde synthesis,Stephen aldehyde synthesis,Organic redox reaction,[[Henry Stephen (chemist)|Henry Stephen]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,22,10,10,15,14,81
-Wurtz–Fittig reaction,Wurtz-Fittig reaction,Coupling reaction,[[Charles Adolphe Wurtz]]  [[Wilhelm Rudolph Fittig]],"{{Reactionbox Identifiers
+Stephen aldehyde synthesis,Stephen aldehyde synthesis,Organic redox reaction,13.5,[[Henry Stephen (chemist)|Henry Stephen]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,22,10,10,15,14,81
+Wurtz–Fittig reaction,Wurtz-Fittig reaction,Coupling reaction,13.166666666666666,[[Charles Adolphe Wurtz]]  [[Wilhelm Rudolph Fittig]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = wurtz-fittig-reaction
 }}",wurtz-fittig-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,11,16,16,11,14,79
-Rosenmund reduction,Rosenmund reduction,Organic redox reaction,[[Karl Wilhelm Rosenmund]],"{{Reactionbox Identifiers
+Rosenmund reduction,Rosenmund reduction,Organic redox reaction,12.833333333333334,[[Karl Wilhelm Rosenmund]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = rosenmund-reduction
 |RSC_ontology_id = 0000136
 }}",rosenmund-reduction,0000136,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,23,12,12,8,8,77
-Bartoli indole synthesis,Bartoli indole synthesis,Ring forming reaction,Giuseppe Bartoli,"{{Reactionbox Identifiers
+Bartoli indole synthesis,Bartoli indole synthesis,Ring forming reaction,12.833333333333334,Giuseppe Bartoli,"{{Reactionbox Identifiers
  | RSC_ontology_id = 0000494
  }}",,0000494,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,21,4,4,29,6,77
-Dess–Martin oxidation,Dess-Martin oxidation,Organic redox reaction,Daniel Benjamin Dess  [[James Cullen Martin]],"{{Reactionbox Identifiers
+Dess–Martin oxidation,Dess-Martin oxidation,Organic redox reaction,12.833333333333334,Daniel Benjamin Dess  [[James Cullen Martin]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = dess-martin-oxidation
 |RSC_ontology_id = 0000256
 }}",dess-martin-oxidation,0000256,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,13,8,8,24,7,77
-Barton decarboxylation,Barton decarboxylation,Substitution reaction,[[Derek Barton]],"{{Reactionbox Identifiers
+Barton decarboxylation,Barton decarboxylation,Substitution reaction,12.666666666666666,[[Derek Barton]],"{{Reactionbox Identifiers
 | OrganicChemistryNamed = barton-decarboxylation
 | RSC_ontology_id = 0000135
 }}",barton-decarboxylation,0000135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,16,11,11,17,6,76
-Larock indole synthesis,Larock indole synthesis,Ring forming reaction,Richard C. Larock,"{{Reactionbox Identifiers
+Larock indole synthesis,Larock indole synthesis,Ring forming reaction,12.5,Richard C. Larock,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000396
  }}",,0000396,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,23,4,4,20,2,75
-Cope rearrangement,Cope rearrangement,Rearrangement reaction,[[Arthur C. Cope]],"{{Reactionbox Identifiers
+Cope rearrangement,Cope rearrangement,Rearrangement reaction,12.5,[[Arthur C. Cope]],"{{Reactionbox Identifiers
 | OrganicChemistryNamed = cope-rearrangement
 | RSC_ontology_id = 0000028
 }}",cope-rearrangement,0000028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,15,10,10,21,6,75
-Passerini reaction,Passerini reaction,Carbon-carbon bond forming reaction,Mario Passerini,"{{Reactionbox Identifiers
+Passerini reaction,Passerini reaction,Carbon-carbon bond forming reaction,12.333333333333334,Mario Passerini,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = passerini-reaction
  | RSC_ontology_id = 0000244
  }}",passerini-reaction,0000244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,19,5,5,24,6,74
-Hiyama coupling,Hiyama coupling,Coupling reaction,[[Tamejiro Hiyama]]  [[Scott E. Denmark]],"{{Reactionbox Identifiers
+Hiyama coupling,Hiyama coupling,Coupling reaction,12.333333333333334,[[Tamejiro Hiyama]]  [[Scott E. Denmark]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = hiyama-coupling
 |RSC_ontology_id = 0000193
 }}",hiyama-denamrk-coupling,0000193,,,,,,,,,"{{Reactionbox Related
@@ -473,121 +473,121 @@ Hiyama coupling,Hiyama coupling,Coupling reaction,[[Tamejiro Hiyama]]  [[Scott E
 |NamedAfter = [[Tamejiro Hiyama]]  [[Scott E. Denmark]]
 |OrganicChemistryNamed = hiyama-denamrk-coupling
 }}",[[Hiyama_coupling#Hiyama-Denmark_coupling|Hiyama-Denmark coupling]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,8,15,15,20,7,74
-Wohl–Ziegler bromination,Wohl-Ziegler bromination,Substitution reaction,[[Alfred Wohl]]  [[Karl Ziegler]],"{{Reactionbox Identifiers
+Wohl–Ziegler bromination,Wohl-Ziegler bromination,Substitution reaction,12.333333333333334,[[Alfred Wohl]]  [[Karl Ziegler]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = wohl-ziegler-reaction
 |RSC_ontology_id = 0000225
 }}",wohl-ziegler-reaction,0000225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,19,8,8,16,3,74
-Arndt–Eistert reaction,Arndt-Eistert reaction,Homologation reaction,"[[Fritz Arndt]], [[Bernd Eistert]]","{{Reactionbox Identifiers
+Arndt–Eistert reaction,Arndt-Eistert reaction,Homologation reaction,11.833333333333334,"[[Fritz Arndt]], [[Bernd Eistert]]","{{Reactionbox Identifiers
    | OrganicChemistryNamed = arndt-eistert-synthesis
    | RSC_ontology_id = 0000063
  }}",arndt-eistert-synthesis,0000063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,15,6,6,18,11,71
-Petasis reaction,Petasis reaction,Coupling reaction,Nicos A. Petasis,"{{Reactionbox Identifiers
+Petasis reaction,Petasis reaction,Coupling reaction,11.666666666666666,Nicos A. Petasis,"{{Reactionbox Identifiers
 |OrganicChemistryNamed = petasis-reaction
 |RSC_ontology_id = 0000232
 }}",petasis-reaction,0000232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,16,7,7,23,2,70
-Takai olefination,Takai olefination,Carbon-carbon bond forming reaction,Kazuhiko Takai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,22,6,6,19,2,67
-Menshutkin reaction,Menshutkin reaction,Coupling reaction,[[Nikolai Menshutkin]],"{{Reactionbox Identifiers
+Takai olefination,Takai olefination,Carbon-carbon bond forming reaction,11.166666666666666,Kazuhiko Takai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,22,6,6,19,2,67
+Menshutkin reaction,Menshutkin reaction,Coupling reaction,11.166666666666666,[[Nikolai Menshutkin]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000223
  }}",,0000223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,28,6,6,14,5,67
-Skraup reaction,Skraup reaction,Ring forming reaction,[[Zdenko Hans Skraup]],"{{Reactionbox Identifiers
+Skraup reaction,Skraup reaction,Ring forming reaction,11.166666666666666,[[Zdenko Hans Skraup]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000062
  }}",,0000062,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,14,4,4,24,9,67
-Bouveault aldehyde synthesis,Bouveault aldehyde synthesis,Carbon-carbon bond forming reaction,[[Louis Bouveault]],"{{Reactionbox Identifiers
+Bouveault aldehyde synthesis,Bouveault aldehyde synthesis,Carbon-carbon bond forming reaction,11.0,[[Louis Bouveault]],"{{Reactionbox Identifiers
  | RSC_ontology_id = 0000533
  }}",,0000533,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,11,10,10,20,2,66
-Corey–Itsuno reduction,Corey-Itsuno reduction,Organic redox reaction,[[Elias James Corey]]  Shinichi Itsuno,"{{Reactionbox Identifiers
+Corey–Itsuno reduction,Corey-Itsuno reduction,Organic redox reaction,10.833333333333334,[[Elias James Corey]]  Shinichi Itsuno,"{{Reactionbox Identifiers
 |OrganicChemistryNamed = corey-bakshi-shibata-reduction
 }}",corey-bakshi-shibata-reduction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,12,4,4,35,5,65
-Nozaki–Hiyama–Kishi reaction,Nozaki-Hiyama-Kishi reaction,Coupling reaction,[[Hitoshi Nozaki]]  [[Tamejiro Hiyama]]  [[Yoshito Kishi]],"{{Reactionbox Identifiers
+Nozaki–Hiyama–Kishi reaction,Nozaki-Hiyama-Kishi reaction,Coupling reaction,10.666666666666666,[[Hitoshi Nozaki]]  [[Tamejiro Hiyama]]  [[Yoshito Kishi]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = nozaki-hiyama-coupling
    | RSC_ontology_id = 0000191
  }}",nozaki-hiyama-coupling,0000191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,17,6,6,18,2,64
-Pummerer rearrangement,Pummerer rearrangement,Rearrangement reaction,Rudolph Pummerer,"{{Reactionbox Identifiers
+Pummerer rearrangement,Pummerer rearrangement,Rearrangement reaction,10.333333333333334,Rudolph Pummerer,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000220
  }}",,0000220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,20,3,3,18,4,62
-Knorr pyrrole synthesis,Knorr pyrrole synthesis,Ring forming reaction,[[Ludwig Knorr]],"{{Reactionbox Identifiers
+Knorr pyrrole synthesis,Knorr pyrrole synthesis,Ring forming reaction,10.333333333333334,[[Ludwig Knorr]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000497
  }}",,0000497,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,14,7,7,18,5,62
-Prilezhaev reaction,Prilezhaev reaction,Ring forming reaction,"Nikolai Alexandrovich Prilezhaev (also spelled Nikolaj Alexandrovich Prileschajew, Russian: Николай Александрович Прилежаев)","{{Reactionbox Identifiers
+Prilezhaev reaction,Prilezhaev reaction,Ring forming reaction,10.333333333333334,"Nikolai Alexandrovich Prilezhaev (also spelled Nikolaj Alexandrovich Prileschajew, Russian: Николай Александрович Прилежаев)","{{Reactionbox Identifiers
    | OrganicChemistryNamed = prilezhaev-reaction
    | RSC_ontology_id = 0000405
  }}",prilezhaev-reaction,0000405,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,11,9,9,21,3,62
-Pechmann condensation,Pechmann condensation,Ring forming reaction,[[Hans von Pechmann]],"{{Reactionbox Identifiers
+Pechmann condensation,Pechmann condensation,Ring forming reaction,10.0,[[Hans von Pechmann]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = pechmann-condensation
  }}",pechmann-condensation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,10,10,10,14,4,60
-Acyloin condensation,Acyloin condensation,Coupling reaction,,"{{Reactionbox Identifiers
+Acyloin condensation,Acyloin condensation,Coupling reaction,9.833333333333334,,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = acyloin-condensation
    | RSC_ontology_id = 0000085
  }}",acyloin-condensation,0000085,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,4,7,7,19,11,59
-Collins oxidation,Collins oxidation,Organic redox reaction,Joseph C. Collins,"{{Reactionbox Identifiers
+Collins oxidation,Collins oxidation,Organic redox reaction,9.833333333333334,Joseph C. Collins,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000550
  }}",,0000550,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,21,21,7,3,59
-Upjohn dihydroxylation,Upjohn dihydroxylation,Addition reaction,[[Upjohn|The Upjohn Company]],"{{Reactionbox Identifiers
+Upjohn dihydroxylation,Upjohn dihydroxylation,Addition reaction,9.666666666666666,[[Upjohn|The Upjohn Company]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = upjohn-dihydroxylation
  }}",upjohn-dihydroxylation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,11,5,5,21,2,58
-Debus–Radziszewski imidazole synthesis,Debus-Radziszewski imidazole synthesis,Ring forming reaction,[[Heinrich Debus (chemist)|Heinrich Debus]]  Bronisław Leonard Radziszewski,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,17,8,8,12,2,57
-Chugaev elimination,Chugaev elimination,Elimination reaction,[[Lev Chugaev]],"{{Reactionbox Identifiers
+Debus–Radziszewski imidazole synthesis,Debus-Radziszewski imidazole synthesis,Ring forming reaction,9.5,[[Heinrich Debus (chemist)|Heinrich Debus]]  Bronisław Leonard Radziszewski,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,17,8,8,12,2,57
+Chugaev elimination,Chugaev elimination,Elimination reaction,9.5,[[Lev Chugaev]],"{{Reactionbox Identifiers
 | RSC_ontology_id = 0000538
 }}",,0000538,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,15,8,8,12,6,57
-Sakurai reaction,Sakurai reaction,Addition reaction,[[Hideki Sakurai]][[Akira Hosomi]],"{{Reactionbox Identifiers
+Sakurai reaction,Sakurai reaction,Addition reaction,9.5,[[Hideki Sakurai]][[Akira Hosomi]],"{{Reactionbox Identifiers
 | OrganicChemistryNamed = hosomi-sakurai-reaction
 | RSC_ontology_id = 0000443
 }}",hosomi-sakurai-reaction,0000443,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,8,3,3,23,4,57
-Bouveault–Blanc reduction,Bouveault-Blanc reduction,Organic redox reaction,[[Louis Bouveault]]  Gustave Louis Blanc,"{{Reactionbox Identifiers
+Bouveault–Blanc reduction,Bouveault-Blanc reduction,Organic redox reaction,9.166666666666666,[[Louis Bouveault]]  Gustave Louis Blanc,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = bouveault-blanc-reduction
    | RSC_ontology_id = 0000119
  }}",bouveault-blanc-reduction,0000119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,15,7,7,16,6,55
-Mozingo reduction,Mozingo reduction,Organic redox reaction,Ralph Mozingo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,10,6,6,12,5,53
-Hofmann–Löffler reaction,Hofmann-Löffler-Freytag reaction,Ring forming reaction,[[August Wilhelm von Hofmann]]  Karl Löffler <br> Curt Freytag,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,14,7,7,10,3,52
-Liebeskind–Srogl coupling,Liebeskind-Srogl coupling,Coupling reaction,Lanny S. Liebeskind  Jiri Srogl,"{{Reactionbox Identifiers
+Mozingo reduction,Mozingo reduction,Organic redox reaction,8.833333333333334,Ralph Mozingo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,10,6,6,12,5,53
+Hofmann–Löffler reaction,Hofmann-Löffler-Freytag reaction,Ring forming reaction,8.666666666666666,[[August Wilhelm von Hofmann]]  Karl Löffler <br> Curt Freytag,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,14,7,7,10,3,52
+Liebeskind–Srogl coupling,Liebeskind-Srogl coupling,Coupling reaction,8.666666666666666,Lanny S. Liebeskind  Jiri Srogl,"{{Reactionbox Identifiers
 |RSC_ontology_id = 0000604
 }}",,0000604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,10,5,5,23,2,52
-Kulinkovich reaction,Kulinkovich-Szymoniak reaction,Ring forming reaction,Oleg Kulinkovich  Jan Szymoniak,"{{Reactionbox Identifiers
+Kulinkovich reaction,Kulinkovich-Szymoniak reaction,Ring forming reaction,8.666666666666666,Oleg Kulinkovich  Jan Szymoniak,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = kulinkovich-szymoniak-reaction
  }}",kulinkovich-szymoniak-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,9,5,5,21,5,52
-Tiffeneau–Demjanov rearrangement,Tiffeneau-Demjanov rearrangement,Rearrangement reaction,[[Marc Tiffeneau]]  [[Nikolay Demyanov]],"{{Reactionbox Identifiers
+Tiffeneau–Demjanov rearrangement,Tiffeneau-Demjanov rearrangement,Rearrangement reaction,8.5,[[Marc Tiffeneau]]  [[Nikolay Demyanov]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000381
  }}",,0000381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,4,8,8,13,5,51
-Cope reaction,Cope reaction,Elimination reaction,[[Arthur C. Cope]],"{{Reactionbox Identifiers
+Cope reaction,Cope reaction,Elimination reaction,8.5,[[Arthur C. Cope]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = cope-elimination
    | RSC_ontology_id = 0000539
  }}",cope-elimination,0000539,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,7,5,5,10,10,51
-Achmatowicz reaction,Achmatowicz reaction,Rearrangement reaction,Osman Achmatowicz Jr.,"{{Reactionbox Identifiers
+Achmatowicz reaction,Achmatowicz reaction,Rearrangement reaction,8.333333333333334,Osman Achmatowicz Jr.,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000233
  }}",,0000233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,12,1,1,21,6,50
-Ramberg–Bäcklund reaction,Ramberg-Bäcklund reaction,Rearrangement reaction,[[Ludwig Ramberg]][[Birger Bäcklund]],,ramberg-baecklund-reaction,0000094,,,,"{{Reactionbox Identifiers
+Ramberg–Bäcklund reaction,Ramberg-Bäcklund reaction,Rearrangement reaction,8.333333333333334,[[Ludwig Ramberg]][[Birger Bäcklund]],,ramberg-baecklund-reaction,0000094,,,,"{{Reactionbox Identifiers
    | RSC_ontology_id=0000094
    | OrganicChemistryNamed = ramberg-baecklund-reaction
 }}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,11,5,5,14,4,50
-Balz–Schiemann reaction,Balz-Schiemann reaction,Substitution reaction,Günther Balz  Günther Schiemann,"{{Reactionbox Identifiers
+Balz–Schiemann reaction,Balz-Schiemann reaction,Substitution reaction,8.166666666666666,Günther Balz  Günther Schiemann,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = balz-schiemann-reaction
  | RSC_ontology_id = 0000127
  }}",balz-schiemann-reaction,0000127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,16,1,1,17,4,49
-Paternò–Büchi reaction,Paternò-Büchi reaction,Ring forming reaction,[[Emanuele Paternò]]  [[George Büchi]],"{{Reactionbox Identifiers
+Paternò–Büchi reaction,Paternò-Büchi reaction,Ring forming reaction,8.166666666666666,[[Emanuele Paternò]]  [[George Büchi]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = paterno-buechi-reaction
    | RSC_ontology_id = 0000083
  }}",paterno-buechi-reaction,0000083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,11,1,1,22,3,49
-Friedländer synthesis,Friedländer synthesis,Ring forming reaction,[[Paul Friedländer (chemist)|Paul Friedländer]],"{{Reactionbox Identifiers
+Friedländer synthesis,Friedländer synthesis,Ring forming reaction,8.166666666666666,[[Paul Friedländer (chemist)|Paul Friedländer]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = friedlaender-synthesis
  }}",friedlaender-synthesis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,8,7,7,10,4,49
-Jacobsen epoxidation,Jacobsen epoxidation,Ring forming reaction,[[Eric N. Jacobsen]],"{{Reactionbox Identifiers
+Jacobsen epoxidation,Jacobsen epoxidation,Ring forming reaction,8.0,[[Eric N. Jacobsen]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = jacobsen-katsuki-epoxidation
 }}",jacobsen-katsuki-epoxidation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,7,4,4,17,6,48
-Scholl reaction,Scholl reaction,Coupling reaction,[[Roland Scholl]],"{{Reactionbox Identifiers
+Scholl reaction,Scholl reaction,Coupling reaction,7.833333333333333,[[Roland Scholl]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000377
  }}",,0000377,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,13,8,8,14,1,47
-Fleming–Tamao oxidation,Fleming-Tamao oxidation,Organic redox reaction,[[Ian Fleming (chemist)|Ian Fleming]]  Kohei Tamao,"{{Reactionbox Identifiers
+Fleming–Tamao oxidation,Fleming-Tamao oxidation,Organic redox reaction,7.333333333333333,[[Ian Fleming (chemist)|Ian Fleming]]  Kohei Tamao,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = fleming-tamao-oxidation
    | RSC_ontology_id = 0000210
  }}",fleming-tamao-oxidation,0000210,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,10,4,4,9,8,44
-Kornblum oxidation,Kornblum oxidation,Organic redox reaction,[[Nathan Kornblum]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,9,4,4,12,6,44
-Rieche formylation,Rieche formylation,Substitution reaction,[[Alfred Rieche]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,7,5,5,13,4,43
-Yamaguchi esterification,Yamaguchi esterification,Coupling reaction,Masaru Yamaguchi,"{{Reactionbox Identifiers
+Kornblum oxidation,Kornblum oxidation,Organic redox reaction,7.333333333333333,[[Nathan Kornblum]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,9,4,4,12,6,44
+Rieche formylation,Rieche formylation,Substitution reaction,7.166666666666667,[[Alfred Rieche]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,7,5,5,13,4,43
+Yamaguchi esterification,Yamaguchi esterification,Coupling reaction,7.166666666666667,Masaru Yamaguchi,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = yamaguchi-esterification
  | RSC_ontology_id = 0000309
  }}",yamaguchi-esterification,0000309,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,8,2,2,14,2,43
-Iodolactonization,Halolactonization,Ring forming reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,11,6,6,9,5,42
-Van Leusen reaction,Van Leusen imidazole synthesis,Ring forming reaction,Daan Van Leusen  Albert M. Van Leusen,"{{Reactionbox Identifiers
+Iodolactonization,Halolactonization,Ring forming reaction,7.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,11,6,6,9,5,42
+Van Leusen reaction,Van Leusen imidazole synthesis,Ring forming reaction,6.666666666666667,Daan Van Leusen  Albert M. Van Leusen,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = van-leusen-imidazole-synthesis
  }}",van-leusen-imidazole-synthesis,,,,,,[[aldehyde]],,,[[oxazole]],,,,,"{{Reactionbox Reaction
   | Reactant =
@@ -607,57 +607,57 @@ Van Leusen reaction,Van Leusen imidazole synthesis,Ring forming reaction,Daan Va
   | Sideproduct1 =
   | Sideproduct1_Equivalents =
  }}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,8,8,12,2,40
-Rubottom oxidation,Rubottom oxidation,Organic redox reaction,George M. Rubottom,"{{Reactionbox Identifiers
+Rubottom oxidation,Rubottom oxidation,Organic redox reaction,6.333333333333333,George M. Rubottom,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = rubottom-oxidation
  }}",rubottom-oxidation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,9,2,2,15,2,38
-Kochi reaction,Kochi reaction,Substitution reaction,[[Jay Kochi]],"{{Reactionbox Identifiers
+Kochi reaction,Kochi reaction,Substitution reaction,6.333333333333333,[[Jay Kochi]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = kochi-reaction
  }}",kochi-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,8,2,2,10,6,38
-Cadiot–Chodkiewicz coupling,Cadiot-Chodkiewicz coupling,Coupling reaction,Paul Cadiot  Wladyslav Chodkiewicz,"{{Reactionbox Identifiers
+Cadiot–Chodkiewicz coupling,Cadiot-Chodkiewicz coupling,Coupling reaction,6.166666666666667,Paul Cadiot  Wladyslav Chodkiewicz,"{{Reactionbox Identifiers
 |OrganicChemistryNamed = cadiot-chodkiewicz-coupling
 |RSC_ontology_id = 0000100
 }}",cadiot-chodkiewicz-coupling,0000100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,9,1,1,20,3,37
-Kolbe nitrile synthesis,Kolbe nitrile synthesis,Substitution reaction,[[Hermann Kolbe]],"{{Reactionbox Identifiers
+Kolbe nitrile synthesis,Kolbe nitrile synthesis,Substitution reaction,6.166666666666667,[[Hermann Kolbe]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = kolbe-nitrile-synthesis
  }}",kolbe-nitrile-synthesis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,4,5,5,11,5,37
-Buchner ring expansion,Buchner ring expansion,Rearrangement reaction,[[Eduard Buchner]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,7,7,8,4,37
-Blanc chloromethylation,Blanc chloromethylation,Substitution reaction,Gustave Louis Blanc,"{{Reactionbox Identifiers
+Buchner ring expansion,Buchner ring expansion,Rearrangement reaction,6.166666666666667,[[Eduard Buchner]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,7,7,8,4,37
+Blanc chloromethylation,Blanc chloromethylation,Substitution reaction,6.166666666666667,Gustave Louis Blanc,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = blanc-reaction
  }}",blanc-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,5,4,4,10,6,37
-Bergman cyclization,Masamune-Bergman cyclization,Ring forming reaction,"Satoru Masamune
+Bergman cyclization,Masamune-Bergman cyclization,Ring forming reaction,6.166666666666667,"Satoru Masamune
 Robert George Bergman","{{Reactionbox Identifiers
    | OrganicChemistryNamed = bergman-cyclization
    | RSC_ontology_id = 0000240
  }}",bergman-cyclization,0000240,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,8,6,6,10,4,37
-Gewald reaction,Gewald reaction,Ring forming reaction,Karl Gewald,"{{Reactionbox Identifiers
+Gewald reaction,Gewald reaction,Ring forming reaction,6.166666666666667,Karl Gewald,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = gewald-reaction
  }}",gewald-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,5,5,15,0,37
-Stahl oxidation,Stahl oxidation,Organic redox reaction,[[Shannon S. Stahl]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,9,4,4,6,5,36
-Aza-Cope rearrangement,Aza-Cope rearrangement,Rearrangement reaction,[[Arthur C. Cope]],"{{Reactionbox Identifiers
+Stahl oxidation,Stahl oxidation,Organic redox reaction,6.0,[[Shannon S. Stahl]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,9,4,4,6,5,36
+Aza-Cope rearrangement,Aza-Cope rearrangement,Rearrangement reaction,6.0,[[Arthur C. Cope]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000197
  }}",,0000197,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,10,10,5,2,36
-Boekelheide reaction,Boekelheide reaction,Rearrangement reaction,Virgil Carl Boekelheide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,6,6,6,9,1,36
-Fukuyama coupling,Fukuyama coupling,Coupling reaction,[[Tohru Fukuyama]],"{{Reactionbox Identifiers
+Boekelheide reaction,Boekelheide reaction,Rearrangement reaction,6.0,Virgil Carl Boekelheide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,6,6,6,9,1,36
+Fukuyama coupling,Fukuyama coupling,Coupling reaction,5.666666666666667,[[Tohru Fukuyama]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = fukuyama-coupling
 }}",fukuyama-coupling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,3,6,6,8,2,34
-Letts nitrile synthesis,Letts nitrile synthesis,Substitution reaction,Edmund A. Letts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,5,5,6,4,34
-Pomeranz–Fritsch reaction,Pomeranz-Fritsch reaction,Ring forming reaction,Cäsar Pomeranz  Paul Fritsch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,7,5,5,12,0,33
-Miyaura borylation,Miyaura borylation,Organic redox reaction,[[Norio Miyaura]],"{{Reactionbox Identifiers
+Letts nitrile synthesis,Letts nitrile synthesis,Substitution reaction,5.666666666666667,Edmund A. Letts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,5,5,6,4,34
+Pomeranz–Fritsch reaction,Pomeranz-Fritsch reaction,Ring forming reaction,5.5,Cäsar Pomeranz  Paul Fritsch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,7,5,5,12,0,33
+Miyaura borylation,Miyaura borylation,Organic redox reaction,5.5,[[Norio Miyaura]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = miyaura-borylation-reaction
 }}",miyaura-borylation-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,7,2,2,16,2,33
-Von Braun reaction,von Braun reaction,Substitution reaction,Julius von Braun,,,,,,,,[[tertiary amine]],,,[[Nitrile#Organic cyanamides|organocyanamide]],,,,,"{{Reactionbox Reaction
+Von Braun reaction,von Braun reaction,Substitution reaction,5.5,Julius von Braun,,,,,,,,[[tertiary amine]],,,[[Nitrile#Organic cyanamides|organocyanamide]],,,,,"{{Reactionbox Reaction
   | Reactant1 = [[tertiary amine]]
   | Reagent1 = [[cyanogen bromide]]
   | Product1 = [[Nitrile#Organic cyanamides|organocyanamide]]
  }}",,[[cyanogen bromide]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,6,6,9,2,33
-Davis oxidation,Davis oxidation,Organic redox reaction,[[Franklin A. Davis]],"{{Reactionbox Identifiers
+Davis oxidation,Davis oxidation,Organic redox reaction,5.333333333333333,[[Franklin A. Davis]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = davis-oxidation
  }}",davis-oxidation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,9,3,3,11,2,32
-Cyanohydrin reaction,Cyanohydrin reaction,Addition reaction,Friedrich Urech,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,6,5,3,32
-Bucherer–Bergs reaction,Bucherer-Bergs reaction,Ring forming reaction,[[Hans Theodor Bucherer]]  Hermann Bergs,"{{Reactionbox Identifiers
+Cyanohydrin reaction,Cyanohydrin reaction,Addition reaction,5.333333333333333,Friedrich Urech,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,6,5,3,32
+Bucherer–Bergs reaction,Bucherer-Bergs reaction,Ring forming reaction,5.333333333333333,[[Hans Theodor Bucherer]]  Hermann Bergs,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = bucherer-bergs-reaction
  }}",bucherer-bergs-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,3,3,3,15,1,32
-Pfitzinger reaction,,ring-condensation,[[Wilhelm Pfitzinger]],"{{Reactionbox Identifiers
+Pfitzinger reaction,,ring-condensation,5.166666666666667,[[Wilhelm Pfitzinger]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000109
  }}",,0000109,,,,"{{Reactionbox Conditions
   | Solvent = protic
@@ -668,99 +668,99 @@ Pfitzinger reaction,,ring-condensation,[[Wilhelm Pfitzinger]],"{{Reactionbox Ide
   | Product1 = [[quinoline]]-4-carboxylic acid
   | Sideproduct1 = [[water]]
   }}",,,,,,,,protic,[[water]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,8,3,3,9,1,31
-Criegee oxidation,Criegee oxidation,Organic redox reaction,[[Rudolf Criegee]],"{{Reactionbox Identifiers
+Criegee oxidation,Criegee oxidation,Organic redox reaction,5.166666666666667,[[Rudolf Criegee]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000257
  }}",,0000257,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,8,2,2,9,4,31
-Chichibabin pyridine synthesis,Chichibabin pyridine synthesis,Ring forming reaction,[[Aleksei Chichibabin]],"{{Reactionbox Identifiers
+Chichibabin pyridine synthesis,Chichibabin pyridine synthesis,Ring forming reaction,5.0,[[Aleksei Chichibabin]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000526
  }}",,0000526,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,9,6,6,4,4,30
-Kröhnke pyridine synthesis,Kröhnke pyridine synthesis,Ring forming reaction,Fritz Kröhnke,"{{Reactionbox Identifiers
+Kröhnke pyridine synthesis,Kröhnke pyridine synthesis,Ring forming reaction,4.833333333333333,Fritz Kröhnke,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000420
  }}",,0000420,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,1,1,1,17,2,29
-Oxy-Cope rearrangement,Oxy-Cope rearrangement,Rearrangement reaction,[[Arthur C. Cope]],"{{Reactionbox Identifiers
+Oxy-Cope rearrangement,Oxy-Cope rearrangement,Rearrangement reaction,4.833333333333333,[[Arthur C. Cope]],"{{Reactionbox Identifiers
 | OrganicChemistryNamed = cope-rearrangement
 | RSC_ontology_id = 0000029
 }}",cope-rearrangement,0000029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,8,4,4,6,1,29
-Woodward cis-hydroxylation,Woodward cis-hydroxylation,addition reaction,[[Robert Burns Woodward]],"{{Reactionbox Identifiers
+Woodward cis-hydroxylation,Woodward cis-hydroxylation,addition reaction,4.833333333333333,[[Robert Burns Woodward]],"{{Reactionbox Identifiers
    | OrganicChemistryNamed = woodward-reaction
  }}",woodward-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,0,7,7,11,1,29
-Meerwein arylation,Meerwein arylation,Coupling reaction,[[Hans Meerwein]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,9,5,5,3,3,29
-Castro–Stephens coupling,Castro-Stephens coupling,Coupling reaction,Charles E. Castro <br> Robert D. Stephens,"{{Reactionbox Identifiers
+Meerwein arylation,Meerwein arylation,Coupling reaction,4.833333333333333,[[Hans Meerwein]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,9,5,5,3,3,29
+Castro–Stephens coupling,Castro-Stephens coupling,Coupling reaction,4.666666666666667,Charles E. Castro <br> Robert D. Stephens,"{{Reactionbox Identifiers
 |RSC_ontology_id = 0000525
 }}",,0000525,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,1,1,11,5,28
-Fischer oxazole synthesis,Fischer oxazole synthesis,Ring forming reaction,[[Hermann Emil Fischer]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,6,3,2,28
-Newman–Kwart rearrangement,Newman-Kwart rearrangement,Rearrangement reaction,[[Melvin Spencer Newman]]  Harold Kwart,"{{Reactionbox Identifiers
+Fischer oxazole synthesis,Fischer oxazole synthesis,Ring forming reaction,4.666666666666667,[[Hermann Emil Fischer]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,6,3,2,28
+Newman–Kwart rearrangement,Newman-Kwart rearrangement,Rearrangement reaction,4.666666666666667,[[Melvin Spencer Newman]]  Harold Kwart,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = newman-kwart-rearrangement
    | RSC_ontology_id = 0000412
  }}",newman-kwart-rearrangement,0000412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,3,3,12,1,28
-Bargellini reaction,Bargellini reaction,Coupling reaction,[[Guido Bargellini]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,2,2,9,2,28
-Willgerodt rearrangement,Willgerodt-Kindler reaction,Rearrangement reaction,[[Conrad Willgerodt]]  Karl Kindler,"{{Reactionbox Identifiers
+Bargellini reaction,Bargellini reaction,Coupling reaction,4.666666666666667,[[Guido Bargellini]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,2,2,9,2,28
+Willgerodt rearrangement,Willgerodt-Kindler reaction,Rearrangement reaction,4.5,[[Conrad Willgerodt]]  Karl Kindler,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = willgerodt-kindler-reaction
    | RSC_ontology_id = 0000186
  }}",willgerodt-kindler-reaction,0000186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,2,4,4,9,1,27
-Hoesch reaction,Houben-Hoesch reaction,Coupling reaction,[[Josef Houben]]  [[Kurt Hoesch]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,1,1,9,5,26
-Gomberg–Bachmann reaction,Gomberg-Bachmann reaction,Coupling reaction,[[Moses Gomberg]]  [[Werner Emmanuel Bachmann]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,1,1,8,2,25
-Betti reaction,Betti reaction,Coupling reaction,Mario Betti,"{{Reactionbox Identifiers
+Hoesch reaction,Houben-Hoesch reaction,Coupling reaction,4.333333333333333,[[Josef Houben]]  [[Kurt Hoesch]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,1,1,9,5,26
+Gomberg–Bachmann reaction,Gomberg-Bachmann reaction,Coupling reaction,4.166666666666667,[[Moses Gomberg]]  [[Werner Emmanuel Bachmann]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,3,1,1,8,2,25
+Betti reaction,Betti reaction,Coupling reaction,4.166666666666667,Mario Betti,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000522
  }}",,0000522,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,7,2,2,9,1,25
-Blaise reaction,Blaise reaction,Coupling reaction,Edmond E. Blaise,"{{Reactionbox Identifiers
+Blaise reaction,Blaise reaction,Coupling reaction,4.166666666666667,Edmond E. Blaise,"{{Reactionbox Identifiers
 | OrganicChemistryNamed = blaise-reaction
 | RSC_ontology_id = 0000237
 }}",blaise-reaction,0000237,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,4,6,1,25
-Feist–Benary synthesis,Feist-Benary synthesis,Ring forming reaction,Franz Feist  Erich Benary,"{{Reactionbox Identifiers
+Feist–Benary synthesis,Feist-Benary synthesis,Ring forming reaction,4.0,Franz Feist  Erich Benary,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000501
  }}",,0000501,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,1,1,7,5,24
-Aza-Diels–Alder reaction,Aza-Diels-Alder reaction,Cycloaddition,[[Otto Diels]][[Kurt Alder]],"{{Reactionbox Identifiers
+Aza-Diels–Alder reaction,Aza-Diels-Alder reaction,Cycloaddition,4.0,[[Otto Diels]][[Kurt Alder]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000092
  }}",,0000092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,5,5,8,1,24
-Nierenstein reaction,Nierenstein reaction,Carbon-carbon bond forming reaction,[[Maximilian Nierenstein]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,5,1,1,5,2,23
-Aza-Baylis–Hillman reaction,Aza-Baylis-Hillman reaction,Coupling reaction,Anthony B. Baylis  Melville E. D. Hillman,"{{Reactionbox Identifiers
+Nierenstein reaction,Nierenstein reaction,Carbon-carbon bond forming reaction,3.8333333333333335,[[Maximilian Nierenstein]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,5,1,1,5,2,23
+Aza-Baylis–Hillman reaction,Aza-Baylis-Hillman reaction,Coupling reaction,3.6666666666666665,Anthony B. Baylis  Melville E. D. Hillman,"{{Reactionbox Identifiers
 |RSC_ontology_id = 0000264
 }}",,0000264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,4,2,2,4,2,22
-Nenitzescu indole synthesis,Nenitzescu indole synthesis,Ring forming reaction,[[Costin Nenițescu]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,3,3,9,0,22
-Milas hydroxylation,Milas hydroxylation,Addition reaction,Nicholas Milas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,1,1,8,3,21
-Japp–Klingemann reaction,Japp-Klingemann reaction,Coupling reaction,[[Francis Robert Japp]]  Felix Klingemann,"{{Reactionbox Identifiers
+Nenitzescu indole synthesis,Nenitzescu indole synthesis,Ring forming reaction,3.6666666666666665,[[Costin Nenițescu]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,3,3,9,0,22
+Milas hydroxylation,Milas hydroxylation,Addition reaction,3.5,Nicholas Milas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,1,1,8,3,21
+Japp–Klingemann reaction,Japp-Klingemann reaction,Coupling reaction,3.5,[[Francis Robert Japp]]  Felix Klingemann,"{{Reactionbox Identifiers
  | RSC_ontology_id = 0000158
  }}",,0000158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,3,2,2,6,1,21
-Rosenmund–von Braun reaction,Rosenmund-von Braun reaction,Substitution reaction,[[Karl Wilhelm Rosenmund]]  Julius von Braun,"{{Reactionbox Identifiers
+Rosenmund–von Braun reaction,Rosenmund-von Braun reaction,Substitution reaction,3.5,[[Karl Wilhelm Rosenmund]]  Julius von Braun,"{{Reactionbox Identifiers
    | OrganicChemistryNamed = rosenmund-von-braun-reaction
    | RSC_ontology_id = 0000288
  }}",rosenmund-von-braun-reaction,0000288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,6,0,0,6,0,21
-Abramov reaction,Abramov reaction,Coupling reaction,Vasilii S. Abramov,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,9,0,0,10,1,20
-Atherton–Todd reaction,Atherton-Todd reaction,Substitution reaction,Frank R. Atherton  [[Alexander R. Todd]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,3,3,4,0,20
-Conia-ene reaction,,Cycloaddition,Jean-Marie Conia,"{{Reactionbox Identifiers
+Abramov reaction,Abramov reaction,Coupling reaction,3.3333333333333335,Vasilii S. Abramov,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,9,0,0,10,1,20
+Atherton–Todd reaction,Atherton-Todd reaction,Substitution reaction,3.3333333333333335,Frank R. Atherton  [[Alexander R. Todd]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,7,3,3,4,0,20
+Conia-ene reaction,,Cycloaddition,3.0,Jean-Marie Conia,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = conia-ene-reaction
 }}",conia-ene-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,1,1,2,6,18
-Elbs persulfate oxidation,Elbs persulfate oxidation,Organic redox reaction,[[Karl Elbs]],"{{Reactionbox Identifiers
+Elbs persulfate oxidation,Elbs persulfate oxidation,Organic redox reaction,3.0,[[Karl Elbs]],"{{Reactionbox Identifiers
 |RSC_ontology_id = 0000179
 }}",,0000179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,2,2,7,2,18
-Madelung synthesis,Madelung indole synthesis,Ring forming reaction,Walter Madelung,"{{Reactionbox Identifiers
+Madelung synthesis,Madelung indole synthesis,Ring forming reaction,3.0,Walter Madelung,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000511
  }}",,0000511,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,0,0,7,1,18
-Urech hydantoin synthesis,Urech hydantoin synthesis,Ring forming reaction,Friedrich Urech,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,2,2,7,1,18
-Emde degradation,Emde degradation,Degradation reaction,Hermann Emde,"{{Reactionbox Identifiers
+Urech hydantoin synthesis,Urech hydantoin synthesis,Ring forming reaction,3.0,Friedrich Urech,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,2,2,7,1,18
+Emde degradation,Emde degradation,Degradation reaction,3.0,Hermann Emde,"{{Reactionbox Identifiers
 |RSC_ontology_id = 0000147
 }}",,0000147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,0,2,2,3,2,18
-Fischer–Hepp rearrangement,Fischer-Hepp rearrangement,Rearrangement reaction,[[Otto Philipp Fischer|Otto Fischer]]  Eduard Hepp,"{{Reactionbox Identifiers
+Fischer–Hepp rearrangement,Fischer-Hepp rearrangement,Rearrangement reaction,3.0,[[Otto Philipp Fischer|Otto Fischer]]  Eduard Hepp,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000095
  }}",,0000095,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,4,3,1,18
-Auwers synthesis,Auwers synthesis,Coupling reaction,[[Karl von Auwers]],"{{Reactionbox Identifiers
+Auwers synthesis,Auwers synthesis,Coupling reaction,3.0,[[Karl von Auwers]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000474
  }}",,0000474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,2,2,7,0,18
-Reissert indole synthesis,Reissert indole synthesis,Ring forming reaction,Arnold Reissert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,0,0,4,0,17
-Bucherer carbazole synthesis,Bucherer carbazole synthesis,Ring forming reaction,[[Hans Theodor Bucherer]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,3,3,5,1,16
-Barton–Kellogg reaction,Barton-Kellogg reaction,Coupling reaction,[[Derek Barton|Sir Derek Barton]]  Richard M. Kellogg,"{{Reactionbox Identifiers
+Reissert indole synthesis,Reissert indole synthesis,Ring forming reaction,2.8333333333333335,Arnold Reissert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,0,0,4,0,17
+Bucherer carbazole synthesis,Bucherer carbazole synthesis,Ring forming reaction,2.6666666666666665,[[Hans Theodor Bucherer]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,3,3,5,1,16
+Barton–Kellogg reaction,Barton-Kellogg reaction,Coupling reaction,2.6666666666666665,[[Derek Barton|Sir Derek Barton]]  Richard M. Kellogg,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000495
  }}",,0000495,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,2,2,6,2,16
-Davis–Beirut reaction,Davis-Beirut reaction,Ring forming reaction,"[[University of California, Davis]]  [[American University of Beirut]]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,9,0,0,1,0,15
-Corey–Seebach reaction,Corey-Seebach reaction,Coupling reaction,[[Elias James Corey]][[Dieter Seebach]],"{{Reactionbox Identifiers
+Davis–Beirut reaction,Davis-Beirut reaction,Ring forming reaction,2.5,"[[University of California, Davis]]  [[American University of Beirut]]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,9,0,0,1,0,15
+Corey–Seebach reaction,Corey-Seebach reaction,Coupling reaction,2.5,[[Elias James Corey]][[Dieter Seebach]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = corey-seebach-reaction
  }}",corey-seebach-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,0,0,1,5,15
-Zinin reaction,Zinin reaction,Organic redox reaction,[[Nikolay Zinin]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,4,4,2,2,14
-Stieglitz rearrangement,Stieglitz rearrangement,Rearrangement reaction,[[Julius Stieglitz]],,,,,,,,,,,,"{{Reactionbox Related
+Zinin reaction,Zinin reaction,Organic redox reaction,2.3333333333333335,[[Nikolay Zinin]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,4,4,2,2,14
+Stieglitz rearrangement,Stieglitz rearrangement,Rearrangement reaction,2.3333333333333335,[[Julius Stieglitz]],,,,,,,,,,,,"{{Reactionbox Related
  | Similar = [[Beckmann rearrangement]]
  }}",[[Beckmann rearrangement]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2,3,3,4,2,14
-Pschorr cyclization,Pschorr cyclization,Ring forming reaction,Robert Pschorr,,pschorr-reaction,,,,,"{{Reactionbox Identifiers
+Pschorr cyclization,Pschorr cyclization,Ring forming reaction,2.3333333333333335,Robert Pschorr,,pschorr-reaction,,,,,"{{Reactionbox Identifiers
   | OrganicChemistryNamed = pschorr-reaction
  }}",,,,,,,,"{{Reactionbox Conditions
   | Catalyst = copper
@@ -768,45 +768,45 @@ Pschorr cyclization,Pschorr cyclization,Ring forming reaction,Robert Pschorr,,ps
   | Reactant = biaryl with diazonium group
   | Product = tricyclic biaryl
  }}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,biaryl with diazonium group,,,,,,,,,tricyclic biaryl,copper,5,7,0,0,1,1,14
-Cadogan–Sundberg indole synthesis,Cadogan-Sundberg indole synthesis,Ring forming reaction,[[John Cadogan]]Richard J. Sundberg,"{{Reactionbox Identifiers
+Cadogan–Sundberg indole synthesis,Cadogan-Sundberg indole synthesis,Ring forming reaction,2.1666666666666665,[[John Cadogan]]Richard J. Sundberg,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = 
  | RSC_ontology_id = 0000509
  }}",,0000509,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,1,1,2,4,13
-Niementowski quinoline synthesis,Niementowski quinoline synthesis,Ring forming reaction,[[Stefan Niementowski]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,1,1,4,2,12
-Fiesselmann thiophene synthesis,Fiesselmann thiophene synthesis,Ring forming reaction,Hans Fiesselmann,"{{Reactionbox Identifiers
+Niementowski quinoline synthesis,Niementowski quinoline synthesis,Ring forming reaction,2.0,[[Stefan Niementowski]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,1,1,4,2,12
+Fiesselmann thiophene synthesis,Fiesselmann thiophene synthesis,Ring forming reaction,2.0,Hans Fiesselmann,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = 
  }}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,1,1,3,1,12
-Fukuyama reduction,Fukuyama reduction,Organic redox reaction,[[Tohru Fukuyama]],"{{Reactionbox Identifiers
+Fukuyama reduction,Fukuyama reduction,Organic redox reaction,2.0,[[Tohru Fukuyama]],"{{Reactionbox Identifiers
 |OrganicChemistryNamed = fukuyama-reduction
 }}",fukuyama-reduction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,0,0,6,0,12
-Hammick reaction,Hammick reaction,Coupling reaction,[[Dalziel Hammick]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,5,5,2,0,12
-Zincke nitration,Zincke nitration,Substitution reaction,[[Theodor Zincke]],"{{Reactionbox Identifiers
+Hammick reaction,Hammick reaction,Coupling reaction,2.0,[[Dalziel Hammick]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,5,5,2,0,12
+Zincke nitration,Zincke nitration,Substitution reaction,2.0,[[Theodor Zincke]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000413
  }}",,0000413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,3,3,6,0,12
-Niementowski quinazoline synthesis,Niementowski quinazoline synthesis,Ring forming reaction,[[Stefan Niementowski]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,2,2,3,1,12
-Hirao coupling,Hirao coupling,Coupling reaction,Toshikazu Hirao,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,3,3,2,0,12
-Bischler–Möhlau indole synthesis,Bischler-Möhlau indole synthesis,Ring forming reaction,[[August Bischler]][[Richard Möhlau]],"{{Reactionbox Identifiers
+Niementowski quinazoline synthesis,Niementowski quinazoline synthesis,Ring forming reaction,2.0,[[Stefan Niementowski]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,2,2,3,1,12
+Hirao coupling,Hirao coupling,Coupling reaction,2.0,Toshikazu Hirao,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,3,3,2,0,12
+Bischler–Möhlau indole synthesis,Bischler-Möhlau indole synthesis,Ring forming reaction,1.8333333333333333,[[August Bischler]][[Richard Möhlau]],"{{Reactionbox Identifiers
     | RSC_ontology_id = 0000523
  }}",,0000523,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,1,1,2,3,11
-Borsche–Drechsel cyclization,Borsche-Drechsel cyclization,Ring forming reaction,Walter Borsche  Edmund Drechsel,"{{Reactionbox Identifiers
+Borsche–Drechsel cyclization,Borsche-Drechsel cyclization,Ring forming reaction,1.8333333333333333,Walter Borsche  Edmund Drechsel,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000532
  }}",,0000532,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,2,2,0,1,11
-Blum–Ittah aziridine synthesis,Blum-Ittah aziridine synthesis,Ring forming reaction,Jochanan BlumYtzhak Ittah,"{{Reactionbox Identifiers
+Blum–Ittah aziridine synthesis,Blum-Ittah aziridine synthesis,Ring forming reaction,1.8333333333333333,Jochanan BlumYtzhak Ittah,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = 
  }}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5,2,2,1,1,11
-Perkow reaction,Perkow reaction,Coupling reaction,Werner Perkow,"{{Reactionbox Identifiers
+Perkow reaction,Perkow reaction,Coupling reaction,1.8333333333333333,Werner Perkow,"{{Reactionbox Identifiers
  | RSC_ontology_id = 0000183
  }}",,0000183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,0,4,3,11
-Tsuji–Wilkinson decarbonylation reaction,Tsuji-Wilkinson decarbonylation,Decarbonylation,{{ill|Jirō Tsuji|de}}[[Geoffrey Wilkinson]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,1,1,5,0,11
-Sarett oxidation,Sarett oxidation,Organic redox reaction,[[Lewis Hastings Sarett]],"{{Reactionbox Identifiers
+Tsuji–Wilkinson decarbonylation reaction,Tsuji-Wilkinson decarbonylation,Decarbonylation,1.8333333333333333,{{ill|Jirō Tsuji|de}}[[Geoffrey Wilkinson]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,1,1,5,0,11
+Sarett oxidation,Sarett oxidation,Organic redox reaction,1.6666666666666667,[[Lewis Hastings Sarett]],"{{Reactionbox Identifiers
 |RSC_ontology_id = 0000547
 }}",,0000547,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2,0,0,8,0,10
-Boyland–Sims oxidation,Boyland-Sims oxidation,Organic redox reaction,Eric Boyland  Peter Sims,"{{Reactionbox Identifiers
+Boyland–Sims oxidation,Boyland-Sims oxidation,Organic redox reaction,1.6666666666666667,Eric Boyland  Peter Sims,"{{Reactionbox Identifiers
 | RSC_ontology_id = 0000181
 }}",,0000181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,2,2,2,3,10
-Swarts fluorination,Swarts fluorination,Substitution reaction,[[Frédéric Swarts|Frédéric Jean Edmond Swarts]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,0,0,1,6,10
-Reissert reaction,Reissert reaction,Addition reaction,Arnold Reissert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,0,5,0,9
-Petrenko-Kritschenko piperidone synthesis,,multicomponent ring-condensation,[[Paul Petrenko-Kritschenko]],,,,,changed,,"{{Reactionbox Conditions
+Swarts fluorination,Swarts fluorination,Substitution reaction,1.6666666666666667,[[Frédéric Swarts|Frédéric Jean Edmond Swarts]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,0,0,1,6,10
+Reissert reaction,Reissert reaction,Addition reaction,1.5,Arnold Reissert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,0,0,5,0,9
+Petrenko-Kritschenko piperidone synthesis,,multicomponent ring-condensation,1.5,[[Paul Petrenko-Kritschenko]],,,,,changed,,"{{Reactionbox Conditions
   | Solvent = typically water or [[alcohols]] at room temperature
  }}",[[aldehyde]],[[aldehyde]],[[Keto acid|3-Keto acid derivative]],[[4-piperidinone|4-piperidone]],,,,,"{{Reactionbox Reaction
   | Reactant1 = [[aldehyde]]
@@ -816,46 +816,46 @@ Petrenko-Kritschenko piperidone synthesis,,multicomponent ring-condensation,[[Pa
   | Product1 = [[4-piperidinone|4-piperidone]]
   | Sideproduct1 = water
   }}",,,,,,,,typically water or [[alcohols]] at room temperature,water,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[[ammonia]] or [[primary amine]],,,,,,,,,,,,1,2,1,1,3,1,9
-Knorr quinoline synthesis,Knorr quinoline synthesis,Ring forming reaction,[[Ludwig Knorr]],"{{Reactionbox Identifiers
+Knorr quinoline synthesis,Knorr quinoline synthesis,Ring forming reaction,1.5,[[Ludwig Knorr]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000394
  }}",,0000394,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,3,3,2,0,9
-Baeyer–Emmerling indole synthesis,Baeyer-Emmerling indole synthesis,Ring forming reaction,[[Adolf von Baeyer]]  [[Adolph Emmerling]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,2,2,1,1,9
-Wenker synthesis,Wenker synthesis,Ring forming reaction,Henry Wenker,"{{Reactionbox Identifiers
+Baeyer–Emmerling indole synthesis,Baeyer-Emmerling indole synthesis,Ring forming reaction,1.5,[[Adolf von Baeyer]]  [[Adolph Emmerling]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,2,2,1,1,9
+Wenker synthesis,Wenker synthesis,Ring forming reaction,1.3333333333333333,Henry Wenker,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = wenker-synthesis
  }}",wenker-synthesis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,3,3,1,0,8
-Lindgren oxidation,Lindgren oxidation,Organic redox reaction,Bengt O. Lindgren,"{{Reactionbox Identifiers
+Lindgren oxidation,Lindgren oxidation,Organic redox reaction,1.3333333333333333,Bengt O. Lindgren,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000287
  }}",,0000287,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,1,2,1,8
-Cook–Heilbron thiazole synthesis,Cook-Heilbron thiazole synthesis,Ring forming reaction,Alan H. Cook  [[Ian Heilbron]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,0,0,0,2,2,8
-Leuckart thiophenol reaction,Leuckart thiophenol reaction,Substitution reaction,[[Rudolf Leuckart (chemist)|Rudolf Leuckart]],"{{Reactionbox Identifiers
+Cook–Heilbron thiazole synthesis,Cook-Heilbron thiazole synthesis,Ring forming reaction,1.3333333333333333,Alan H. Cook  [[Ian Heilbron]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,0,0,0,2,2,8
+Leuckart thiophenol reaction,Leuckart thiophenol reaction,Substitution reaction,1.3333333333333333,[[Rudolf Leuckart (chemist)|Rudolf Leuckart]],"{{Reactionbox Identifiers
  | OrganicChemistryNamed = leuckart-thiophenol-reaction
  }}",leuckart-thiophenol-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,0,0,0,4,8
-Fritsch–Buttenberg–Wiechell rearrangement,Fritsch-Buttenberg-Wiechell rearrangement,Rearrangement reaction,Paul Ernst Moritz Fritsch  Wilhelm Paul Buttenberg  Heinrich G. Wiechell,"{{Reactionbox Identifiers
+Fritsch–Buttenberg–Wiechell rearrangement,Fritsch-Buttenberg-Wiechell rearrangement,Rearrangement reaction,1.3333333333333333,Paul Ernst Moritz Fritsch  Wilhelm Paul Buttenberg  Heinrich G. Wiechell,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000250
  }}",,0000250,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,4,0,0,3,1,8
-Lombardo methylenation,Lombardo methylenation,Organic redox reaction,Luciano Lombardo,"{{Reactionbox Identifiers
+Lombardo methylenation,Lombardo methylenation,Organic redox reaction,1.1666666666666667,Luciano Lombardo,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = 
  }}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,0,0,3,1,7
-Blaise ketone synthesis,Blaise ketone synthesis,Coupling reaction,Edmond Blaise,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,2,2,2,1,7
-Menke nitration,Menke nitration,Substitution reaction,J. B. Menke,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,5,0,7
-Ganem oxidation,Ganem oxidation,Organic redox reaction,Bruce Ganem,"{{Reactionbox Identifiers
+Blaise ketone synthesis,Blaise ketone synthesis,Coupling reaction,1.1666666666666667,Edmond Blaise,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,2,2,2,1,7
+Menke nitration,Menke nitration,Substitution reaction,1.1666666666666667,J. B. Menke,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,5,0,7
+Ganem oxidation,Ganem oxidation,Organic redox reaction,1.0,Bruce Ganem,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = 
  }}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2,0,0,2,2,6
-Hemetsberger indole synthesis,Hemetsberger indole synthesis,Ring forming reaction,Helfried Hemetsberger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,0,0,1,1,6
-Baudisch reaction,Baudish reaction,Substitution reaction,[[Oskar Baudisch]],"{{Reactionbox Identifiers
+Hemetsberger indole synthesis,Hemetsberger indole synthesis,Ring forming reaction,1.0,Helfried Hemetsberger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,0,0,1,1,6
+Baudisch reaction,Baudish reaction,Substitution reaction,1.0,[[Oskar Baudisch]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000483
  }}",,0000483,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,1,0,1,6
-Nef synthesis,Nef synthesis,Coupling reaction,[[John Ulric Nef (chemist)|John Ulric Nef]],"{{Reactionbox Identifiers
+Nef synthesis,Nef synthesis,Coupling reaction,0.8333333333333334,[[John Ulric Nef (chemist)|John Ulric Nef]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000506
  }}",,0000506,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,2,1,5
-"Hurd–Mori 1,2,3-thiadiazole synthesis","Hurd-Mori 1,2,3-thiadiazole synthesis",Ring forming reaction,Charles D. HurdRaymond I. Mori,"{{Reactionbox Identifiers
+"Hurd–Mori 1,2,3-thiadiazole synthesis","Hurd-Mori 1,2,3-thiadiazole synthesis",Ring forming reaction,0.8333333333333334,Charles D. HurdRaymond I. Mori,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = 
  | RSC_ontology_id = 
  }}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,0,0,1,1,5
-Oxo-Diels–Alder reaction,Oxo-Diels-Alder reaction,Cycloaddition,[[Otto Diels]][[Kurt Alder]],"{{Reactionbox Identifiers
+Oxo-Diels–Alder reaction,Oxo-Diels-Alder reaction,Cycloaddition,0.8333333333333334,[[Otto Diels]][[Kurt Alder]],"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000310
  }}",,0000310,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,1,2,0,5
-ZACA reaction,,transition metal catalyzed organometallic functionalization,,,,,,,,"{{Reactionbox Conditions
+ZACA reaction,,transition metal catalyzed organometallic functionalization,0.8333333333333334,,,,,,,,"{{Reactionbox Conditions
   | Solvent = typically [[Dichloromethane|DCM]]
  }}",[[alkene]],[[organoaluminum compound]],[[organozirconium chemistry|chiralzirconium catalyst]],[[chiral alcohol]],,,,,"{{Reactionbox Reaction
   | Reactant1 = [[alkene]]
@@ -865,132 +865,30 @@ ZACA reaction,,transition metal catalyzed organometallic functionalization,,,,,,
   | Product1 = [[chiral alcohol]]
   | Sideproduct1 = [[aluminum oxide]]
   }}",,,,,,,,typically [[Dichloromethane|DCM]],[[aluminum oxide]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[[oxygen]] (optional),,,,,,,,,,,,0,0,1,1,1,2,5
-Camps quinoline synthesis,Camps quinoline synthesis,Ring forming reaction,Rudolph Camps,"{{Reactionbox Identifiers
+Camps quinoline synthesis,Camps quinoline synthesis,Ring forming reaction,0.8333333333333334,Rudolph Camps,"{{Reactionbox Identifiers
    | RSC_ontology_id = 0000524
  }}",,0000524,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,0,1,1,1,0,5
-Bobbitt reaction,Bobbitt reaction,Ring forming reaction,[[James M. Bobbitt]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,2,2,1,0,5
-Corey–Nicolaou macrolactonization,Corey-Nicolaou macrolactonization,Name reaction,[[Elias James Corey]]  [[K. C. Nicolaou]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,1,5
-Bohlmann–Rahtz pyridine synthesis,Bohlmann-Rahtz pyridine synthesis,Ring forming reaction,[[Ferdinand Bohlmann]]Dieter Rahtz,"{{Reactionbox Identifiers
+Bobbitt reaction,Bobbitt reaction,Ring forming reaction,0.8333333333333334,[[James M. Bobbitt]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,2,2,1,0,5
+Corey–Nicolaou macrolactonization,Corey-Nicolaou macrolactonization,Name reaction,0.8333333333333334,[[Elias James Corey]]  [[K. C. Nicolaou]],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,1,5
+Bohlmann–Rahtz pyridine synthesis,Bohlmann-Rahtz pyridine synthesis,Ring forming reaction,0.6666666666666666,[[Ferdinand Bohlmann]]Dieter Rahtz,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = bohlmann-rahtz-pyridine-synthesis
  }}",bohlmann-rahtz-pyridine-synthesis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,4
-Jocic reaction,Jocic reaction,Substitution reaction,Zivojin JocicWilkins Reeve,"{{Reactionbox Identifiers
+Jocic reaction,Jocic reaction,Substitution reaction,0.5,Zivojin JocicWilkins Reeve,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = jocic-reaction
 }}",jocic-reaction,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,2,1,3
-Hegedus indole synthesis,Hegedus indole synthesis,Ring forming reaction,Louis S. Hegedus,"{{Reactionbox Identifiers
+Hegedus indole synthesis,Hegedus indole synthesis,Ring forming reaction,0.3333333333333333,Louis S. Hegedus,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = 
  | RSC_ontology_id = 
  }}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,1,2
-De Kimpe aziridine synthesis,De Kimpe aziridine synthesis,Ring forming reaction,Norbert De Kimpe,"{{Reactionbox Identifiers
+De Kimpe aziridine synthesis,De Kimpe aziridine synthesis,Ring forming reaction,0.3333333333333333,Norbert De Kimpe,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = de-kimpe-aziridine-synthesis
  }}",de-kimpe-aziridine-synthesis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,1,0,2
-Ferrario–Ackermann reaction,Ferrario-Ackermann reaction,Ring forming reaction,M. E. FerrarioFritz Ackermann,"{{Reactionbox Identifiers
+Ferrario–Ackermann reaction,Ferrario-Ackermann reaction,Ring forming reaction,0.16666666666666666,M. E. FerrarioFritz Ackermann,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = 
  }}",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,1
-Reactionbox/styles.css,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-01,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-06-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-06-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Temperature,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Reverse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Database reports/Unused templates/35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Database reports/Uncategorized templates/4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Reaction,,,,,,,,,,,,,,,,,,,,,,,{{{Sideproduct8_Reference|}}},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,Sideproduct,{{{Sideproduct8|}}},{{{Sideproduct8_Equivalents|}}},{{{Sideproduct8_Note|}}},{{{Equilibrium|}}},,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionIndex,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-02,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox templates,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-06-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Related,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{{#if:{{{Reverse|}}}|Reverse }},{{#if:{{{Reverse|}}}|{{{Reverse}}} }},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Examples,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Similar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox maintenance categories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox NamedAfter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-06-23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-06-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Component,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-06-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Catalyst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Griesbaum coozonolysis,Griesbaum coozonolysis,Organic redox reaction,Karl Griesbaum,"{{Reactionbox Identifiers
+Griesbaum coozonolysis,Griesbaum coozonolysis,Organic redox reaction,0.0,Karl Griesbaum,"{{Reactionbox Identifiers
  | OrganicChemistryNamed = griesbaum-coozonolysis
  }}",griesbaum-coozonolysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Solvent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Header,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox RSC ontology id,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Isay reaction,Isay reaction,Ring forming reaction,Oskar Isay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Name,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Entry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{{{par_label|}}},{{{par_value|}}},{{{par_value1|}}},{{{par_value2|}}},{{{par_value3|}}},{{{par_value4|}}},{{{par_value5|}}},{{{par_value6|}}},{{{par_value7|}}},{{{par_value8|}}},{{{par_value9|}}},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{{#if:{{{Type|}}}|Type }},{{#if:{{{Type|}}}|{{{Type}}} }},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-10-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-09-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Identifiers/doc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Templates for discussion/Log/2011 January 15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Templates for discussion/Log/2011 January 24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-TemplateData/List,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Village pump (technical)/Archive 108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Chemical data validation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Bots/Requests for approval/CheMoBot 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionboxes which contain changes to watched fields,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionboxes which contain changes to verified fields,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2011-02-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Related/doc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Reaction/doc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Conditions/doc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-08-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2010-02-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox OrganicChemistry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Transition metal catalyzed organometallic functionalizations,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2010-02-05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Templates with red links/006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/IRC discussions/2009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2010-08-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox MarchID,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2009-07-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Conditions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{{#if:{{{Catalyst|}}}|Catalyst }},{{#if:{{{Catalyst|}}}|{{{Catalyst}}} }},,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox/doc,Swern oxidation,Functional group oxidation,,"{{Reactionbox Related
-   | Examples = An example
-   | Similar = [[Diels-Alder reaction]]
-   | Reverse = [[Sodium borohydride]] reduction
-  }}",,0000154,,,,"{{Reactionbox Conditions
-   | Reference = 
-   | Solvent = DMSO, CHCl
-   | Temperature = 
- }}",[[Primary alcohol|Primary]] or [[secondary alcohol]],,,[[Aldehyde]] or [[ketone]],,[[Diels-Alder reaction]],,"{{Reactionbox Identifiers
-   | Reference = 
-   | RSC_ontology_id = 0000154
- }}","{{Reactionbox Reaction
-   | Reference = 
-   | Reactant1 = [[Primary alcohol|Primary]] or [[secondary alcohol]]
-   | Reagent1 = [[Dimethyl sulfoxide|DMSO]]
-   | Reagent1_Equivalents = 2
-   | Reagent1_Reference = 
-   | Reagent2 = [[Oxalyl chloride]]
-   | Reagent2_Reference = 
-   | Product1 = [[Aldehyde]] or [[ketone]]
-   | Sideproduct1 = [[Dimethylsulfide]]
-   | Sideproduct2 = [[Carbon monoxide]]
-   | Sideproduct3 = [[Carbon dioxide]]
-   | Sideproduct4 = [[HCl]]
-   | Sideproduct4_Note = ([[Scavenger (chemistry)|scavenged]])
-   | Sideproduct4_Reference = 
-  }}",,[[Dimethyl sulfoxide|DMSO]],,,,,,"DMSO, CHCl",[[Dimethylsulfide]],,,,,,,,,,,,,,,,2,,[[Oxalyl chloride]],,[[Carbon monoxide]],[[Carbon dioxide]],[[HCl]],([[Scavenger (chemistry)|scavenged]]),,An example,[[Sodium borohydride]] reduction,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Reactionbox Identifiers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,{{{RSC_ontology_id|}}},,,,,,,,,,,,,,,,,,,,,,{{{RSC_ontology_id_verified|}}},{{{MarchEdition|}}},{{{MarchPage|}}},{{{RSC_ontology_id_comment|}}},,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2010-05-25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/Lists of pages/Chemistry all pages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-WikiProject Chemistry/ReactionLog/2010-02-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-Database reports/Unused templates (filtered)/1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+Isay reaction,Isay reaction,Ring forming reaction,0.0,Oskar Isay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+Chemical data validation,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+Transition metal catalyzed organometallic functionalizations,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
